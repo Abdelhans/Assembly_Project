@@ -1,0 +1,44 @@
+Assembly	sortie_sequencage1
+# contigs (>= 0 bp)	586
+# contigs (>= 1000 bp)	1
+# contigs (>= 5000 bp)	1
+# contigs (>= 10000 bp)	1
+# contigs (>= 25000 bp)	1
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	62259
+Total length (>= 1000 bp)	45261
+Total length (>= 5000 bp)	45261
+Total length (>= 10000 bp)	45261
+Total length (>= 25000 bp)	45261
+Total length (>= 50000 bp)	0
+# contigs	586
+Largest contig	45261
+Total length	62259
+Reference length	48576
+GC (%)	50.53
+Reference GC (%)	49.87
+N50	45261
+NG50	45261
+N75	39
+NG75	45261
+L50	1
+LG50	1
+L75	38
+LG75	1
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	1
+# unaligned contigs	585 + 1 part
+Unaligned length	41105
+Genome fraction (%)	43.505
+Duplication ratio	1.001
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	331.24
+# indels per 100 kbp	0.00
+Largest alignment	429
+Total aligned length	21154
+NGA50	-

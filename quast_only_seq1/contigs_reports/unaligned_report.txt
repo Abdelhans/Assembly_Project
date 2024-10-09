@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 1 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       sortie_sequencage1
+# fully unaligned contigs      585               
+Fully unaligned length         16998             
+# partially unaligned contigs  1                 
+Partially unaligned length     24107             
+# N's                          0                 

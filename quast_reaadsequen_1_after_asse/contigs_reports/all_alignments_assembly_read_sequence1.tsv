@@ -1,0 +1,1144 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+35000	35172	1	172	gi_9626243_ref_NC_001416.1_	Contig_1	97.11		True
+local misassembly
+35028	35299	173	444	gi_9626243_ref_NC_001416.1_	Contig_1	97.79		True
+CONTIG	Contig_1	444	correct
+11415	11709	1	295	gi_9626243_ref_NC_001416.1_	Contig_2	97.97		True
+CONTIG	Contig_2	295	correct
+19669	19755	210	296	gi_9626243_ref_NC_001416.1_	Contig_3	98.85		True
+local misassembly
+19016	19227	406	617	gi_9626243_ref_NC_001416.1_	Contig_3	98.11		True
+local misassembly
+19005	19197	637	829	gi_9626243_ref_NC_001416.1_	Contig_3	98.45		True
+indel: indel (<= 5bp)
+19199	19275	830	906	gi_9626243_ref_NC_001416.1_	Contig_3	98.7		True
+local misassembly
+19276	19426	994	1144	gi_9626243_ref_NC_001416.1_	Contig_3	98.01		True
+local misassembly
+19202	19297	1145	1240	gi_9626243_ref_NC_001416.1_	Contig_3	96.97		True
+indel: indel (> 5bp)
+19298	19363	1290	1355	gi_9626243_ref_NC_001416.1_	Contig_3	100.0		True
+indel: indel (> 5bp)
+19364	19596	1405	1637	gi_9626243_ref_NC_001416.1_	Contig_3	97.85		True
+local misassembly
+19484	19569	1907	1992	gi_9626243_ref_NC_001416.1_	Contig_3	97.67		True
+indel: indel (> 5bp)
+19570	19729	2042	2201	gi_9626243_ref_NC_001416.1_	Contig_3	96.88		True
+local misassembly
+19660	19765	2534	2639	gi_9626243_ref_NC_001416.1_	Contig_3	99.06		True
+local misassembly
+19746	19846	2963	3063	gi_9626243_ref_NC_001416.1_	Contig_3	98.02		True
+local misassembly
+19867	20045	3221	3399	gi_9626243_ref_NC_001416.1_	Contig_3	97.21		True
+CONTIG	Contig_3	3399	correct
+19624	19722	1	99	gi_9626243_ref_NC_001416.1_	Contig_4	98.99		True
+CONTIG	Contig_4	99	correct
+2852	2935	180	263	gi_9626243_ref_NC_001416.1_	Contig_5	98.81		True
+unknown
+2936	3025	313	402	gi_9626243_ref_NC_001416.1_	Contig_5	97.78		True
+unknown
+3089	3226	611	748	gi_9626243_ref_NC_001416.1_	Contig_5	97.83		True
+unknown
+CONTIG	Contig_5	815	mis_unaligned
+35605	35741	48	184	gi_9626243_ref_NC_001416.1_	Contig_6	97.81		True
+unknown
+35626	35725	184	283	gi_9626243_ref_NC_001416.1_	Contig_6	99.0		True
+unknown
+35743	35880	742	879	gi_9626243_ref_NC_001416.1_	Contig_6	98.55		True
+unknown
+35768	35942	1003	1170	gi_9626243_ref_NC_001416.1_	Contig_6	95.43		True
+unknown
+35893	35991	1375	1473	gi_9626243_ref_NC_001416.1_	Contig_6	98.99		True
+unknown
+35890	35991	1473	1574	gi_9626243_ref_NC_001416.1_	Contig_6	99.02		True
+unknown
+35850	35953	1646	1749	gi_9626243_ref_NC_001416.1_	Contig_6	99.04		True
+unknown
+35830	35953	1899	2022	gi_9626243_ref_NC_001416.1_	Contig_6	97.58		True
+unknown
+35949	36047	2410	2508	gi_9626243_ref_NC_001416.1_	Contig_6	98.99		True
+unknown
+36241	36345	2657	2761	gi_9626243_ref_NC_001416.1_	Contig_6	99.05		True
+unknown
+36347	36416	2762	2831	gi_9626243_ref_NC_001416.1_	Contig_6	98.57		True
+unknown
+36492	36699	2832	3039	gi_9626243_ref_NC_001416.1_	Contig_6	96.63		True
+unknown
+CONTIG	Contig_6	3039	mis_unaligned
+25653	25851	1	199	gi_9626243_ref_NC_001416.1_	Contig_7	97.99		True
+CONTIG	Contig_7	199	correct
+22456	22714	1	259	gi_9626243_ref_NC_001416.1_	Contig_8	96.91		True
+CONTIG	Contig_8	259	correct
+6825	6925	182	282	gi_9626243_ref_NC_001416.1_	Contig_9	99.01		True
+unknown
+6926	7058	479	611	gi_9626243_ref_NC_001416.1_	Contig_9	98.5		True
+unknown
+7122	7226	920	1024	gi_9626243_ref_NC_001416.1_	Contig_9	98.1		True
+unknown
+7227	7368	1123	1264	gi_9626243_ref_NC_001416.1_	Contig_9	97.89		True
+unknown
+7336	7429	1581	1674	gi_9626243_ref_NC_001416.1_	Contig_9	98.94		True
+unknown
+7390	7499	1777	1886	gi_9626243_ref_NC_001416.1_	Contig_9	99.09		True
+unknown
+7500	7681	1935	2116	gi_9626243_ref_NC_001416.1_	Contig_9	97.25		True
+unknown
+7516	7643	2117	2244	gi_9626243_ref_NC_001416.1_	Contig_9	97.66		True
+unknown
+CONTIG	Contig_9	2244	mis_unaligned
+7084	7220	1	137	gi_9626243_ref_NC_001416.1_	Contig_10	98.54		True
+CONTIG	Contig_10	137	correct
+CONTIG	Contig_11	67	unaligned
+19645	19833	1	189	gi_9626243_ref_NC_001416.1_	Contig_12	97.88		True
+CONTIG	Contig_12	189	correct
+24905	25199	1	295	gi_9626243_ref_NC_001416.1_	Contig_13	97.97		True
+CONTIG	Contig_13	295	correct
+46161	46278	1	117	gi_9626243_ref_NC_001416.1_	Contig_14	98.31		True
+local misassembly
+46150	46383	118	350	gi_9626243_ref_NC_001416.1_	Contig_14	96.58		True
+local misassembly
+46247	46517	351	621	gi_9626243_ref_NC_001416.1_	Contig_14	97.79		True
+CONTIG	Contig_14	621	correct
+41245	41429	1	185	gi_9626243_ref_NC_001416.1_	Contig_15	97.84		True
+local misassembly
+41430	41524	333	427	gi_9626243_ref_NC_001416.1_	Contig_15	98.95		True
+local misassembly
+41525	41610	609	694	gi_9626243_ref_NC_001416.1_	Contig_15	98.84		True
+indel: indel (> 5bp)
+41620	41697	695	772	gi_9626243_ref_NC_001416.1_	Contig_15	98.72		True
+indel: indel (> 5bp)
+41722	41828	817	923	gi_9626243_ref_NC_001416.1_	Contig_15	97.2		True
+local misassembly
+41562	41686	981	1105	gi_9626243_ref_NC_001416.1_	Contig_15	96.8		True
+local misassembly
+41687	41822	1302	1437	gi_9626243_ref_NC_001416.1_	Contig_15	97.79		True
+CONTIG	Contig_15	1591	correct
+41413	41568	1	155	gi_9626243_ref_NC_001416.1_	Contig_16	98.08		True
+local misassembly
+41470	41570	156	256	gi_9626243_ref_NC_001416.1_	Contig_16	99.02		True
+CONTIG	Contig_16	256	correct
+41476	41573	1	98	gi_9626243_ref_NC_001416.1_	Contig_17	98.98		True
+CONTIG	Contig_17	98	correct
+9868	9966	1	99	gi_9626243_ref_NC_001416.1_	Contig_18	98.99		True
+local misassembly
+9568	9730	104	266	gi_9626243_ref_NC_001416.1_	Contig_18	97.55		True
+indel: indel (> 5bp)
+9731	9868	316	453	gi_9626243_ref_NC_001416.1_	Contig_18	97.1		True
+local misassembly
+9732	9844	454	566	gi_9626243_ref_NC_001416.1_	Contig_18	99.12		True
+local misassembly
+9634	9836	567	769	gi_9626243_ref_NC_001416.1_	Contig_18	97.54		True
+local misassembly
+9846	9982	1220	1356	gi_9626243_ref_NC_001416.1_	Contig_18	97.81		True
+local misassembly
+9846	9958	1357	1469	gi_9626243_ref_NC_001416.1_	Contig_18	99.12		True
+indel: indel (> 5bp)
+9982	10146	1520	1684	gi_9626243_ref_NC_001416.1_	Contig_18	96.36		True
+local misassembly
+9962	10060	1685	1783	gi_9626243_ref_NC_001416.1_	Contig_18	98.99		True
+CONTIG	Contig_18	1783	correct
+48190	48288	1	99	gi_9626243_ref_NC_001416.1_	Contig_19	100.0		True
+unknown
+48289	48354	345	410	gi_9626243_ref_NC_001416.1_	Contig_19	95.45		True
+unknown
+48356	48454	411	509	gi_9626243_ref_NC_001416.1_	Contig_19	98.99		True
+unknown
+48361	48460	510	609	gi_9626243_ref_NC_001416.1_	Contig_19	99.0		True
+unknown
+48310	48540	924	1153	gi_9626243_ref_NC_001416.1_	Contig_19	97.84		True
+unknown
+CONTIG	Contig_19	1209	mis_unaligned
+48339	48459	1	121	gi_9626243_ref_NC_001416.1_	Contig_20	98.35		True
+CONTIG	Contig_20	121	correct
+CONTIG	Contig_21	51	unaligned
+39143	39379	19	255	gi_9626243_ref_NC_001416.1_	Contig_22	97.05		True
+indel: indel (> 5bp)
+39383	39595	308	520	gi_9626243_ref_NC_001416.1_	Contig_22	97.65		True
+local misassembly
+39435	39611	620	796	gi_9626243_ref_NC_001416.1_	Contig_22	98.87		True
+local misassembly
+39582	39778	963	1159	gi_9626243_ref_NC_001416.1_	Contig_22	97.97		True
+local misassembly
+39706	39825	1427	1546	gi_9626243_ref_NC_001416.1_	Contig_22	97.5		True
+indel: indel (> 5bp)
+39826	39903	1582	1659	gi_9626243_ref_NC_001416.1_	Contig_22	98.72		True
+CONTIG	Contig_22	1747	correct
+CONTIG	Contig_23	56	unaligned
+CONTIG	Contig_24	56	unaligned
+1885	2184	1	300	gi_9626243_ref_NC_001416.1_	Contig_25	98.0		True
+CONTIG	Contig_25	300	correct
+CONTIG	Contig_26	50	unaligned
+7105	7213	1	109	gi_9626243_ref_NC_001416.1_	Contig_27	98.17		True
+CONTIG	Contig_27	109	correct
+CONTIG	Contig_28	50	unaligned
+26562	26690	10	138	gi_9626243_ref_NC_001416.1_	Contig_29	97.67		True
+indel: indel (> 5bp)
+26772	26970	139	337	gi_9626243_ref_NC_001416.1_	Contig_29	98.49		True
+CONTIG	Contig_29	337	correct
+11831	11976	1	146	gi_9626243_ref_NC_001416.1_	Contig_30	98.63		True
+CONTIG	Contig_30	146	correct
+29467	29587	1	121	gi_9626243_ref_NC_001416.1_	Contig_31	99.17		True
+local misassembly
+29688	29781	306	399	gi_9626243_ref_NC_001416.1_	Contig_31	100.0		True
+local misassembly
+29597	29733	400	536	gi_9626243_ref_NC_001416.1_	Contig_31	98.54		True
+CONTIG	Contig_31	536	correct
+33015	33244	1	230	gi_9626243_ref_NC_001416.1_	Contig_32	98.26		True
+CONTIG	Contig_32	230	correct
+1076	1208	1	133	gi_9626243_ref_NC_001416.1_	Contig_33	97.74		True
+local misassembly
+897	1010	134	247	gi_9626243_ref_NC_001416.1_	Contig_33	97.37		True
+local misassembly
+1074	1157	458	541	gi_9626243_ref_NC_001416.1_	Contig_33	98.81		True
+local misassembly
+1209	1400	740	931	gi_9626243_ref_NC_001416.1_	Contig_33	97.92		True
+local misassembly
+1271	1767	1091	1586	gi_9626243_ref_NC_001416.1_	Contig_33	97.99		True
+CONTIG	Contig_33	1649	correct
+14365	14475	65	175	gi_9626243_ref_NC_001416.1_	Contig_34	99.1		True
+indel: indel (> 5bp)
+14476	14598	225	347	gi_9626243_ref_NC_001416.1_	Contig_34	97.56		True
+indel: indel (> 5bp)
+14659	14865	348	554	gi_9626243_ref_NC_001416.1_	Contig_34	97.58		True
+local misassembly
+14602	14753	705	856	gi_9626243_ref_NC_001416.1_	Contig_34	97.37		True
+indel: indel (> 5bp)
+14803	14903	857	957	gi_9626243_ref_NC_001416.1_	Contig_34	96.04		True
+indel: indel (<= 5bp)
+14905	15007	958	1060	gi_9626243_ref_NC_001416.1_	Contig_34	98.06		True
+indel: indel (> 5bp)
+15027	15293	1061	1327	gi_9626243_ref_NC_001416.1_	Contig_34	97.38		True
+CONTIG	Contig_34	1327	correct
+CONTIG	Contig_35	105	unaligned
+CONTIG	Contig_36	102	unaligned
+111	307	100	295	gi_9626243_ref_NC_001416.1_	Contig_37	97.46		True
+local misassembly
+118	202	591	675	gi_9626243_ref_NC_001416.1_	Contig_37	100.0		True
+indel: indel (<= 5bp)
+204	304	676	776	gi_9626243_ref_NC_001416.1_	Contig_37	99.01		True
+local misassembly
+212	308	777	873	gi_9626243_ref_NC_001416.1_	Contig_37	98.99		True
+CONTIG	Contig_37	873	correct
+154	225	1	72	gi_9626243_ref_NC_001416.1_	Contig_38	100.0		True
+CONTIG	Contig_38	72	correct
+33944	34204	1	261	gi_9626243_ref_NC_001416.1_	Contig_39	97.32		True
+CONTIG	Contig_39	261	correct
+27555	27854	1	300	gi_9626243_ref_NC_001416.1_	Contig_40	97.33		True
+CONTIG	Contig_40	300	correct
+19723	19838	1	116	gi_9626243_ref_NC_001416.1_	Contig_41	97.41		True
+CONTIG	Contig_41	116	correct
+43126	43425	1	300	gi_9626243_ref_NC_001416.1_	Contig_42	97.0		True
+CONTIG	Contig_42	300	correct
+4016	4114	1	99	gi_9626243_ref_NC_001416.1_	Contig_43	98.99		True
+unknown
+3812	3911	221	320	gi_9626243_ref_NC_001416.1_	Contig_43	99.0		True
+unknown
+3861	3925	418	482	gi_9626243_ref_NC_001416.1_	Contig_43	100.0		True
+unknown
+4041	4157	1137	1253	gi_9626243_ref_NC_001416.1_	Contig_43	97.44		True
+unknown
+4158	4285	1352	1479	gi_9626243_ref_NC_001416.1_	Contig_43	97.66		True
+unknown
+4313	4386	1480	1553	gi_9626243_ref_NC_001416.1_	Contig_43	98.65		True
+unknown
+4387	4462	1578	1653	gi_9626243_ref_NC_001416.1_	Contig_43	97.37		True
+unknown
+4636	4794	1762	1920	gi_9626243_ref_NC_001416.1_	Contig_43	98.74		True
+unknown
+4638	4842	1921	2125	gi_9626243_ref_NC_001416.1_	Contig_43	98.05		True
+unknown
+CONTIG	Contig_43	2125	mis_unaligned
+4130	4288	1	159	gi_9626243_ref_NC_001416.1_	Contig_44	98.11		True
+CONTIG	Contig_44	159	correct
+16181	16370	1	190	gi_9626243_ref_NC_001416.1_	Contig_45	98.42		True
+local misassembly
+16305	16403	321	419	gi_9626243_ref_NC_001416.1_	Contig_45	98.99		True
+indel: indel (> 5bp)
+16413	16527	420	534	gi_9626243_ref_NC_001416.1_	Contig_45	98.26		True
+local misassembly
+16377	16501	802	926	gi_9626243_ref_NC_001416.1_	Contig_45	99.2		True
+indel: indel (> 5bp)
+16526	16623	978	1075	gi_9626243_ref_NC_001416.1_	Contig_45	98.99		True
+local misassembly
+16504	16603	1076	1175	gi_9626243_ref_NC_001416.1_	Contig_45	99.01		True
+local misassembly
+16480	16596	1176	1292	gi_9626243_ref_NC_001416.1_	Contig_45	98.29		True
+CONTIG	Contig_45	1292	correct
+46036	46138	1	103	gi_9626243_ref_NC_001416.1_	Contig_46	98.06		True
+CONTIG	Contig_46	103	correct
+12875	12960	707	792	gi_9626243_ref_NC_001416.1_	Contig_47	100.0		True
+unknown
+13042	13195	877	1030	gi_9626243_ref_NC_001416.1_	Contig_47	98.05		True
+unknown
+12992	13170	1029	1206	gi_9626243_ref_NC_001416.1_	Contig_47	98.32		True
+unknown
+12915	13014	1265	1364	gi_9626243_ref_NC_001416.1_	Contig_47	99.0		True
+unknown
+13015	13080	1424	1489	gi_9626243_ref_NC_001416.1_	Contig_47	98.48		True
+unknown
+13027	13137	1645	1755	gi_9626243_ref_NC_001416.1_	Contig_47	99.1		True
+unknown
+13081	13235	1889	2042	gi_9626243_ref_NC_001416.1_	Contig_47	97.42		True
+unknown
+13311	13495	2491	2675	gi_9626243_ref_NC_001416.1_	Contig_47	97.3		True
+unknown
+13251	13315	2772	2836	gi_9626243_ref_NC_001416.1_	Contig_47	100.0		True
+unknown
+13425	13563	3074	3212	gi_9626243_ref_NC_001416.1_	Contig_47	97.84		True
+unknown
+13281	13378	3318	3415	gi_9626243_ref_NC_001416.1_	Contig_47	97.96		True
+unknown
+13463	13582	3529	3648	gi_9626243_ref_NC_001416.1_	Contig_47	98.33		True
+unknown
+CONTIG	Contig_47	3735	mis_unaligned
+23065	23278	1	214	gi_9626243_ref_NC_001416.1_	Contig_48	99.07		True
+CONTIG	Contig_48	214	correct
+CONTIG	Contig_49	81	unaligned
+7433	7581	1	148	gi_9626243_ref_NC_001416.1_	Contig_50	98.66		True
+CONTIG	Contig_50	199	correct
+CONTIG	Contig_51	55	unaligned
+5387	5518	1	132	gi_9626243_ref_NC_001416.1_	Contig_52	97.73		True
+indel: indel (> 5bp)
+5519	5700	145	326	gi_9626243_ref_NC_001416.1_	Contig_52	98.9		True
+CONTIG	Contig_52	326	correct
+41538	41717	1	180	gi_9626243_ref_NC_001416.1_	Contig_53	97.78		True
+CONTIG	Contig_53	180	correct
+41547	41645	1	99	gi_9626243_ref_NC_001416.1_	Contig_54	98.99		True
+CONTIG	Contig_54	99	correct
+12988	13109	107	227	gi_9626243_ref_NC_001416.1_	Contig_55	98.36		True
+CONTIG	Contig_55	277	correct
+13024	13175	1	152	gi_9626243_ref_NC_001416.1_	Contig_56	98.03		True
+CONTIG	Contig_56	152	correct
+CONTIG	Contig_57	64	unaligned
+CONTIG	Contig_58	55	unaligned
+40422	40645	1	224	gi_9626243_ref_NC_001416.1_	Contig_59	97.77		True
+CONTIG	Contig_59	224	correct
+4082	4180	1	99	gi_9626243_ref_NC_001416.1_	Contig_60	98.99		True
+CONTIG	Contig_60	99	correct
+41723	41810	1	88	gi_9626243_ref_NC_001416.1_	Contig_61	98.86		True
+CONTIG	Contig_61	88	correct
+36322	36484	1	163	gi_9626243_ref_NC_001416.1_	Contig_62	97.55		True
+CONTIG	Contig_62	163	correct
+34553	34656	3	106	gi_9626243_ref_NC_001416.1_	Contig_63	98.08		True
+indel: indel (> 5bp)
+34657	34762	156	261	gi_9626243_ref_NC_001416.1_	Contig_63	99.06		True
+local misassembly
+34815	35039	407	631	gi_9626243_ref_NC_001416.1_	Contig_63	97.78		True
+CONTIG	Contig_63	631	correct
+CONTIG	Contig_64	64	unaligned
+41577	41675	1	99	gi_9626243_ref_NC_001416.1_	Contig_65	97.98		True
+CONTIG	Contig_65	99	correct
+CONTIG	Contig_66	73	unaligned
+20913	21164	1	252	gi_9626243_ref_NC_001416.1_	Contig_67	97.22		True
+CONTIG	Contig_67	252	correct
+4059	4186	1	128	gi_9626243_ref_NC_001416.1_	Contig_68	98.44		True
+CONTIG	Contig_68	128	correct
+13091	13189	1	99	gi_9626243_ref_NC_001416.1_	Contig_69	98.99		True
+CONTIG	Contig_69	99	correct
+13296	13469	1	174	gi_9626243_ref_NC_001416.1_	Contig_70	98.28		True
+CONTIG	Contig_70	175	correct
+13324	13458	1	135	gi_9626243_ref_NC_001416.1_	Contig_71	98.52		True
+CONTIG	Contig_71	135	correct
+18131	18261	1	131	gi_9626243_ref_NC_001416.1_	Contig_72	98.47		True
+unknown
+18262	18367	181	286	gi_9626243_ref_NC_001416.1_	Contig_72	98.11		True
+unknown
+CONTIG	Contig_72	508	mis_unaligned
+18354	18486	1	133	gi_9626243_ref_NC_001416.1_	Contig_73	98.5		True
+CONTIG	Contig_73	133	correct
+40491	40750	1	260	gi_9626243_ref_NC_001416.1_	Contig_74	98.08		True
+CONTIG	Contig_74	260	correct
+29281	29567	1	287	gi_9626243_ref_NC_001416.1_	Contig_75	97.56		True
+CONTIG	Contig_75	287	correct
+19312	19475	1	164	gi_9626243_ref_NC_001416.1_	Contig_76	98.17		True
+CONTIG	Contig_76	164	correct
+19714	19861	1	148	gi_9626243_ref_NC_001416.1_	Contig_77	97.97		True
+CONTIG	Contig_77	148	correct
+25425	25700	1	276	gi_9626243_ref_NC_001416.1_	Contig_78	98.19		True
+CONTIG	Contig_78	276	correct
+29440	29538	164	262	gi_9626243_ref_NC_001416.1_	Contig_79	97.98		True
+CONTIG	Contig_79	262	correct
+CONTIG	Contig_80	56	unaligned
+38144	38234	1	91	gi_9626243_ref_NC_001416.1_	Contig_81	98.9		True
+local misassembly
+38246	38375	200	329	gi_9626243_ref_NC_001416.1_	Contig_81	98.46		True
+CONTIG	Contig_81	386	correct
+7293	7391	1	99	gi_9626243_ref_NC_001416.1_	Contig_82	98.99		True
+CONTIG	Contig_82	99	correct
+6290	6543	1	254	gi_9626243_ref_NC_001416.1_	Contig_83	97.64		True
+CONTIG	Contig_83	254	correct
+14455	14698	1	244	gi_9626243_ref_NC_001416.1_	Contig_84	97.95		True
+CONTIG	Contig_84	244	correct
+14621	14691	1	71	gi_9626243_ref_NC_001416.1_	Contig_85	100.0		True
+CONTIG	Contig_85	71	correct
+47359	47658	1	300	gi_9626243_ref_NC_001416.1_	Contig_86	97.67		True
+CONTIG	Contig_86	300	correct
+20584	20901	1	318	gi_9626243_ref_NC_001416.1_	Contig_87	98.11		True
+CONTIG	Contig_87	318	correct
+32557	32651	1	95	gi_9626243_ref_NC_001416.1_	Contig_88	97.89		True
+unknown
+32707	32875	442	610	gi_9626243_ref_NC_001416.1_	Contig_88	98.82		True
+unknown
+CONTIG	Contig_88	610	mis_unaligned
+1469	1564	1	96	gi_9626243_ref_NC_001416.1_	Contig_89	98.96		True
+CONTIG	Contig_89	96	correct
+21938	22046	1	109	gi_9626243_ref_NC_001416.1_	Contig_90	98.17		True
+unknown
+22039	22155	248	364	gi_9626243_ref_NC_001416.1_	Contig_90	98.29		True
+unknown
+CONTIG	Contig_90	505	mis_unaligned
+22035	22162	1	128	gi_9626243_ref_NC_001416.1_	Contig_91	98.44		True
+CONTIG	Contig_91	128	correct
+1080	1280	1	201	gi_9626243_ref_NC_001416.1_	Contig_92	98.01		True
+CONTIG	Contig_92	201	correct
+16680	16983	1	304	gi_9626243_ref_NC_001416.1_	Contig_93	97.7		True
+CONTIG	Contig_93	304	correct
+47300	47560	1	261	gi_9626243_ref_NC_001416.1_	Contig_94	97.32		True
+CONTIG	Contig_94	261	correct
+15260	15376	1	117	gi_9626243_ref_NC_001416.1_	Contig_95	97.44		True
+local misassembly
+15392	15489	231	328	gi_9626243_ref_NC_001416.1_	Contig_95	100.0		True
+indel: indel (> 5bp)
+15490	15578	378	466	gi_9626243_ref_NC_001416.1_	Contig_95	98.88		True
+indel: indel (> 5bp)
+15579	15712	516	649	gi_9626243_ref_NC_001416.1_	Contig_95	97.76		True
+indel: indel (> 5bp)
+15713	15809	699	795	gi_9626243_ref_NC_001416.1_	Contig_95	97.94		True
+indel: indel (> 5bp)
+15810	16040	845	1075	gi_9626243_ref_NC_001416.1_	Contig_95	97.84		True
+CONTIG	Contig_95	1189	correct
+13096	13194	1	99	gi_9626243_ref_NC_001416.1_	Contig_96	98.99		True
+CONTIG	Contig_96	99	correct
+13266	13359	1	94	gi_9626243_ref_NC_001416.1_	Contig_97	98.94		True
+CONTIG	Contig_97	94	correct
+45801	46092	1	292	gi_9626243_ref_NC_001416.1_	Contig_98	98.29		True
+CONTIG	Contig_98	292	correct
+CONTIG	Contig_99	55	unaligned
+33373	33672	1	300	gi_9626243_ref_NC_001416.1_	Contig_100	97.67		True
+CONTIG	Contig_100	300	correct
+3080	3158	1	79	gi_9626243_ref_NC_001416.1_	Contig_101	98.73		True
+CONTIG	Contig_101	79	correct
+41713	41813	1	101	gi_9626243_ref_NC_001416.1_	Contig_102	98.02		True
+CONTIG	Contig_102	101	correct
+CONTIG	Contig_103	78	unaligned
+26001	26284	1	284	gi_9626243_ref_NC_001416.1_	Contig_104	97.89		True
+CONTIG	Contig_104	284	correct
+19701	19799	1	99	gi_9626243_ref_NC_001416.1_	Contig_105	98.99		True
+CONTIG	Contig_105	99	correct
+38761	39060	1	300	gi_9626243_ref_NC_001416.1_	Contig_106	97.67		True
+CONTIG	Contig_106	300	correct
+CONTIG	Contig_107	53	unaligned
+12993	13116	1	124	gi_9626243_ref_NC_001416.1_	Contig_108	98.39		True
+CONTIG	Contig_108	124	correct
+13108	13206	1	99	gi_9626243_ref_NC_001416.1_	Contig_109	98.99		True
+CONTIG	Contig_109	99	correct
+87	209	1	123	gi_9626243_ref_NC_001416.1_	Contig_110	98.37		True
+CONTIG	Contig_110	123	correct
+148	246	1	99	gi_9626243_ref_NC_001416.1_	Contig_111	98.99		True
+CONTIG	Contig_111	99	correct
+18260	18340	1	81	gi_9626243_ref_NC_001416.1_	Contig_112	98.77		True
+CONTIG	Contig_112	81	correct
+13300	13416	1	117	gi_9626243_ref_NC_001416.1_	Contig_113	98.29		True
+CONTIG	Contig_113	117	correct
+13396	13537	1	142	gi_9626243_ref_NC_001416.1_	Contig_114	97.89		True
+CONTIG	Contig_114	142	correct
+5	214	1	210	gi_9626243_ref_NC_001416.1_	Contig_115	97.14		True
+CONTIG	Contig_115	210	correct
+1622	1920	1	299	gi_9626243_ref_NC_001416.1_	Contig_116	97.32		True
+CONTIG	Contig_116	299	correct
+48163	48327	1	165	gi_9626243_ref_NC_001416.1_	Contig_117	98.18		True
+CONTIG	Contig_117	165	correct
+39492	39588	1	97	gi_9626243_ref_NC_001416.1_	Contig_118	98.97		True
+CONTIG	Contig_118	97	correct
+11980	12215	1	236	gi_9626243_ref_NC_001416.1_	Contig_119	97.46		True
+CONTIG	Contig_119	236	correct
+40098	40325	1	228	gi_9626243_ref_NC_001416.1_	Contig_120	98.25		True
+CONTIG	Contig_120	228	correct
+40553	40817	1	265	gi_9626243_ref_NC_001416.1_	Contig_121	96.98		True
+CONTIG	Contig_121	265	correct
+36314	36478	1	165	gi_9626243_ref_NC_001416.1_	Contig_122	97.58		True
+CONTIG	Contig_122	165	correct
+48303	48470	1	168	gi_9626243_ref_NC_001416.1_	Contig_123	97.62		True
+CONTIG	Contig_123	168	correct
+22215	22383	1	169	gi_9626243_ref_NC_001416.1_	Contig_124	98.22		True
+CONTIG	Contig_124	169	correct
+44769	45068	1	300	gi_9626243_ref_NC_001416.1_	Contig_125	97.67		True
+CONTIG	Contig_125	300	correct
+11676	11940	1	265	gi_9626243_ref_NC_001416.1_	Contig_126	98.49		True
+CONTIG	Contig_126	265	correct
+11018	11317	1	300	gi_9626243_ref_NC_001416.1_	Contig_127	98.0		True
+CONTIG	Contig_127	300	correct
+45863	46016	1	154	gi_9626243_ref_NC_001416.1_	Contig_128	96.75		True
+CONTIG	Contig_128	154	correct
+13623	13922	1	300	gi_9626243_ref_NC_001416.1_	Contig_129	97.67		True
+CONTIG	Contig_129	300	correct
+22611	22904	1	294	gi_9626243_ref_NC_001416.1_	Contig_130	97.96		True
+CONTIG	Contig_130	300	correct
+12998	13123	1	126	gi_9626243_ref_NC_001416.1_	Contig_131	97.62		True
+CONTIG	Contig_131	126	correct
+41232	41423	1	192	gi_9626243_ref_NC_001416.1_	Contig_132	98.44		True
+CONTIG	Contig_132	192	correct
+31187	31456	1	270	gi_9626243_ref_NC_001416.1_	Contig_133	97.78		True
+CONTIG	Contig_133	270	correct
+47720	48019	1	300	gi_9626243_ref_NC_001416.1_	Contig_134	97.67		True
+CONTIG	Contig_134	300	correct
+41695	41793	1	99	gi_9626243_ref_NC_001416.1_	Contig_135	98.99		True
+CONTIG	Contig_135	99	correct
+CONTIG	Contig_136	76	unaligned
+19569	19667	1	99	gi_9626243_ref_NC_001416.1_	Contig_137	98.99		True
+CONTIG	Contig_137	99	correct
+19733	19808	1	76	gi_9626243_ref_NC_001416.1_	Contig_138	98.68		True
+CONTIG	Contig_138	76	correct
+14994	15139	1	146	gi_9626243_ref_NC_001416.1_	Contig_139	97.95		True
+CONTIG	Contig_139	146	correct
+29216	29515	1	300	gi_9626243_ref_NC_001416.1_	Contig_140	98.0		True
+CONTIG	Contig_140	300	correct
+CONTIG	Contig_141	65	unaligned
+135	251	1	117	gi_9626243_ref_NC_001416.1_	Contig_142	98.29		True
+CONTIG	Contig_142	117	correct
+26729	26955	1	227	gi_9626243_ref_NC_001416.1_	Contig_143	97.8		True
+CONTIG	Contig_143	227	correct
+16353	16458	1	106	gi_9626243_ref_NC_001416.1_	Contig_144	98.11		True
+CONTIG	Contig_144	106	correct
+39630	39728	1	99	gi_9626243_ref_NC_001416.1_	Contig_145	98.99		True
+CONTIG	Contig_145	99	correct
+CONTIG	Contig_146	70	unaligned
+20269	20460	1	192	gi_9626243_ref_NC_001416.1_	Contig_147	98.44		True
+CONTIG	Contig_147	192	correct
+23136	23435	1	300	gi_9626243_ref_NC_001416.1_	Contig_148	98.0		True
+CONTIG	Contig_148	300	correct
+CONTIG	Contig_149	60	unaligned
+27449	27662	1	214	gi_9626243_ref_NC_001416.1_	Contig_150	97.66		True
+CONTIG	Contig_150	214	correct
+19588	19753	1	166	gi_9626243_ref_NC_001416.1_	Contig_151	97.59		True
+CONTIG	Contig_151	166	correct
+5543	5638	1	96	gi_9626243_ref_NC_001416.1_	Contig_152	98.96		True
+CONTIG	Contig_152	96	correct
+32620	32795	1	176	gi_9626243_ref_NC_001416.1_	Contig_153	97.16		True
+CONTIG	Contig_153	176	correct
+8515	8809	1	295	gi_9626243_ref_NC_001416.1_	Contig_154	97.29		True
+CONTIG	Contig_154	300	correct
+9899	9997	1	99	gi_9626243_ref_NC_001416.1_	Contig_155	98.99		True
+CONTIG	Contig_155	99	correct
+35937	36081	1	145	gi_9626243_ref_NC_001416.1_	Contig_156	97.93		True
+CONTIG	Contig_156	145	correct
+CONTIG	Contig_157	53	unaligned
+CONTIG	Contig_158	105	unaligned
+27637	27900	1	264	gi_9626243_ref_NC_001416.1_	Contig_159	98.48		True
+CONTIG	Contig_159	264	correct
+29855	30154	1	300	gi_9626243_ref_NC_001416.1_	Contig_160	98.0		True
+CONTIG	Contig_160	300	correct
+18159	18334	1	176	gi_9626243_ref_NC_001416.1_	Contig_161	98.3		True
+CONTIG	Contig_161	176	correct
+2175	2472	3	300	gi_9626243_ref_NC_001416.1_	Contig_162	97.65		True
+CONTIG	Contig_162	300	correct
+7073	7186	1	114	gi_9626243_ref_NC_001416.1_	Contig_163	98.25		True
+CONTIG	Contig_163	114	correct
+7276	7372	1	97	gi_9626243_ref_NC_001416.1_	Contig_164	97.94		True
+CONTIG	Contig_164	97	correct
+7395	7466	1	72	gi_9626243_ref_NC_001416.1_	Contig_165	98.61		True
+CONTIG	Contig_165	72	correct
+16987	17286	1	300	gi_9626243_ref_NC_001416.1_	Contig_166	98.0		True
+CONTIG	Contig_166	300	correct
+13029	13108	1	80	gi_9626243_ref_NC_001416.1_	Contig_167	98.75		True
+CONTIG	Contig_167	80	correct
+6910	7009	1	100	gi_9626243_ref_NC_001416.1_	Contig_168	99.0		True
+CONTIG	Contig_168	100	correct
+37238	37538	1	301	gi_9626243_ref_NC_001416.1_	Contig_169	97.34		True
+CONTIG	Contig_169	301	correct
+20278	20458	1	181	gi_9626243_ref_NC_001416.1_	Contig_170	98.34		True
+CONTIG	Contig_170	181	correct
+13814	14113	1	299	gi_9626243_ref_NC_001416.1_	Contig_171	97.0		True
+CONTIG	Contig_171	463	correct
+44972	45271	1	300	gi_9626243_ref_NC_001416.1_	Contig_172	98.0		True
+CONTIG	Contig_172	300	correct
+44442	44653	1	212	gi_9626243_ref_NC_001416.1_	Contig_173	98.58		True
+CONTIG	Contig_173	212	correct
+25663	25962	1	300	gi_9626243_ref_NC_001416.1_	Contig_174	97.67		True
+CONTIG	Contig_174	300	correct
+36203	36340	1	138	gi_9626243_ref_NC_001416.1_	Contig_175	96.38		True
+CONTIG	Contig_175	138	correct
+770	1018	1	249	gi_9626243_ref_NC_001416.1_	Contig_176	96.79		True
+CONTIG	Contig_176	255	correct
+CONTIG	Contig_177	75	unaligned
+CONTIG	Contig_178	68	unaligned
+CONTIG	Contig_179	62	unaligned
+CONTIG	Contig_180	88	unaligned
+32682	32780	1	99	gi_9626243_ref_NC_001416.1_	Contig_181	98.99		True
+CONTIG	Contig_181	99	correct
+145	250	1	106	gi_9626243_ref_NC_001416.1_	Contig_182	98.11		True
+CONTIG	Contig_182	106	correct
+23371	23723	1	352	gi_9626243_ref_NC_001416.1_	Contig_183	97.73		True
+local misassembly
+23493	23670	353	529	gi_9626243_ref_NC_001416.1_	Contig_183	95.53		True
+local misassembly
+23538	23927	530	919	gi_9626243_ref_NC_001416.1_	Contig_183	97.18		True
+CONTIG	Contig_183	919	correct
+8389	8688	1	300	gi_9626243_ref_NC_001416.1_	Contig_184	98.33		True
+CONTIG	Contig_184	300	correct
+9916	10064	1	149	gi_9626243_ref_NC_001416.1_	Contig_185	97.99		True
+CONTIG	Contig_185	149	correct
+39623	39721	1	99	gi_9626243_ref_NC_001416.1_	Contig_186	98.99		True
+CONTIG	Contig_186	99	correct
+39717	39822	1	106	gi_9626243_ref_NC_001416.1_	Contig_187	97.17		True
+CONTIG	Contig_187	106	correct
+CONTIG	Contig_188	75	unaligned
+43687	43904	1	218	gi_9626243_ref_NC_001416.1_	Contig_189	98.17		True
+CONTIG	Contig_189	218	correct
+9941	10030	1	90	gi_9626243_ref_NC_001416.1_	Contig_190	98.89		True
+CONTIG	Contig_190	90	correct
+CONTIG	Contig_191	51	unaligned
+CONTIG	Contig_192	67	unaligned
+13028	13135	1	108	gi_9626243_ref_NC_001416.1_	Contig_193	98.15		True
+CONTIG	Contig_193	108	correct
+13112	13224	1	113	gi_9626243_ref_NC_001416.1_	Contig_194	98.23		True
+CONTIG	Contig_194	113	correct
+CONTIG	Contig_195	100	unaligned
+24663	24807	1	145	gi_9626243_ref_NC_001416.1_	Contig_196	98.62		True
+CONTIG	Contig_196	145	correct
+35910	36045	1	136	gi_9626243_ref_NC_001416.1_	Contig_197	97.79		True
+CONTIG	Contig_197	136	correct
+14200	14390	1	191	gi_9626243_ref_NC_001416.1_	Contig_198	98.43		True
+CONTIG	Contig_198	191	correct
+30789	31043	1	255	gi_9626243_ref_NC_001416.1_	Contig_199	97.65		True
+CONTIG	Contig_199	255	correct
+12087	12386	1	300	gi_9626243_ref_NC_001416.1_	Contig_200	97.33		True
+CONTIG	Contig_200	300	correct
+39608	39729	1	122	gi_9626243_ref_NC_001416.1_	Contig_201	98.36		True
+CONTIG	Contig_201	122	correct
+CONTIG	Contig_202	54	unaligned
+CONTIG	Contig_203	72	unaligned
+22926	23194	1	269	gi_9626243_ref_NC_001416.1_	Contig_204	97.77		True
+CONTIG	Contig_204	269	correct
+41428	41562	1	135	gi_9626243_ref_NC_001416.1_	Contig_205	98.52		True
+CONTIG	Contig_205	135	correct
+2857	3010	1	154	gi_9626243_ref_NC_001416.1_	Contig_206	98.7		True
+CONTIG	Contig_206	154	correct
+CONTIG	Contig_207	55	unaligned
+CONTIG	Contig_208	56	unaligned
+19704	19802	1	99	gi_9626243_ref_NC_001416.1_	Contig_209	98.99		True
+CONTIG	Contig_209	99	correct
+27136	27382	1	247	gi_9626243_ref_NC_001416.1_	Contig_210	97.17		True
+CONTIG	Contig_210	247	correct
+3020	3129	1	110	gi_9626243_ref_NC_001416.1_	Contig_211	98.18		True
+CONTIG	Contig_211	110	correct
+4282	4416	1	135	gi_9626243_ref_NC_001416.1_	Contig_212	97.78		True
+CONTIG	Contig_212	135	correct
+29513	29598	1	86	gi_9626243_ref_NC_001416.1_	Contig_213	98.84		True
+CONTIG	Contig_213	86	correct
+CONTIG	Contig_214	53	unaligned
+13321	13483	1	163	gi_9626243_ref_NC_001416.1_	Contig_215	98.16		True
+CONTIG	Contig_215	163	correct
+26604	26802	1	199	gi_9626243_ref_NC_001416.1_	Contig_216	97.99		True
+CONTIG	Contig_216	199	correct
+42262	42409	1	148	gi_9626243_ref_NC_001416.1_	Contig_217	97.3		True
+CONTIG	Contig_217	148	correct
+41530	41628	1	99	gi_9626243_ref_NC_001416.1_	Contig_218	98.99		True
+CONTIG	Contig_218	99	correct
+CONTIG	Contig_219	71	unaligned
+33744	33962	1	219	gi_9626243_ref_NC_001416.1_	Contig_220	97.26		True
+CONTIG	Contig_220	219	correct
+17173	17457	1	285	gi_9626243_ref_NC_001416.1_	Contig_221	97.89		True
+CONTIG	Contig_221	285	correct
+27186	27410	1	225	gi_9626243_ref_NC_001416.1_	Contig_222	98.22		True
+CONTIG	Contig_222	225	correct
+37563	37862	1	300	gi_9626243_ref_NC_001416.1_	Contig_223	98.0		True
+CONTIG	Contig_223	300	correct
+24589	24679	1	91	gi_9626243_ref_NC_001416.1_	Contig_224	98.9		True
+CONTIG	Contig_224	91	correct
+31639	31916	1	278	gi_9626243_ref_NC_001416.1_	Contig_225	97.84		True
+CONTIG	Contig_225	278	correct
+18647	18946	1	300	gi_9626243_ref_NC_001416.1_	Contig_226	98.0		True
+CONTIG	Contig_226	300	correct
+37832	38076	1	245	gi_9626243_ref_NC_001416.1_	Contig_227	98.37		True
+CONTIG	Contig_227	245	correct
+22902	22967	1	66	gi_9626243_ref_NC_001416.1_	Contig_228	100.0		True
+CONTIG	Contig_228	66	correct
+39857	40046	1	190	gi_9626243_ref_NC_001416.1_	Contig_229	98.42		True
+CONTIG	Contig_229	190	correct
+16282	16556	1	275	gi_9626243_ref_NC_001416.1_	Contig_230	97.45		True
+CONTIG	Contig_230	275	correct
+10212	10342	1	131	gi_9626243_ref_NC_001416.1_	Contig_231	96.18		True
+CONTIG	Contig_231	131	correct
+41626	41702	1	77	gi_9626243_ref_NC_001416.1_	Contig_232	98.7		True
+CONTIG	Contig_232	77	correct
+31408	31705	3	300	gi_9626243_ref_NC_001416.1_	Contig_233	97.65		True
+CONTIG	Contig_233	300	correct
+CONTIG	Contig_234	70	unaligned
+7388	7539	1	152	gi_9626243_ref_NC_001416.1_	Contig_235	97.37		True
+CONTIG	Contig_235	152	correct
+13178	13270	1	93	gi_9626243_ref_NC_001416.1_	Contig_236	97.85		True
+CONTIG	Contig_236	93	correct
+13258	13356	1	99	gi_9626243_ref_NC_001416.1_	Contig_237	98.99		True
+CONTIG	Contig_237	99	correct
+41338	41415	1	78	gi_9626243_ref_NC_001416.1_	Contig_238	98.72		True
+CONTIG	Contig_238	78	correct
+29426	29501	1	76	gi_9626243_ref_NC_001416.1_	Contig_239	98.68		True
+CONTIG	Contig_239	76	correct
+29473	29571	1	99	gi_9626243_ref_NC_001416.1_	Contig_240	98.99		True
+CONTIG	Contig_240	99	correct
+CONTIG	Contig_241	60	unaligned
+35740	35838	1	99	gi_9626243_ref_NC_001416.1_	Contig_242	98.99		True
+CONTIG	Contig_242	99	correct
+48328	48480	1	153	gi_9626243_ref_NC_001416.1_	Contig_243	98.04		True
+CONTIG	Contig_243	153	correct
+19732	19805	1	74	gi_9626243_ref_NC_001416.1_	Contig_244	98.65		True
+CONTIG	Contig_244	74	correct
+41691	41789	1	99	gi_9626243_ref_NC_001416.1_	Contig_245	98.99		True
+CONTIG	Contig_245	99	correct
+CONTIG	Contig_246	52	unaligned
+48253	48351	1	99	gi_9626243_ref_NC_001416.1_	Contig_247	98.99		True
+CONTIG	Contig_247	99	correct
+13151	13326	1	176	gi_9626243_ref_NC_001416.1_	Contig_248	97.73		True
+CONTIG	Contig_248	176	correct
+43818	44117	1	300	gi_9626243_ref_NC_001416.1_	Contig_249	97.33		True
+CONTIG	Contig_249	300	correct
+20013	20312	1	300	gi_9626243_ref_NC_001416.1_	Contig_250	98.0		True
+CONTIG	Contig_250	300	correct
+9170	9469	1	300	gi_9626243_ref_NC_001416.1_	Contig_251	97.67		True
+CONTIG	Contig_251	300	correct
+CONTIG	Contig_252	51	unaligned
+CONTIG	Contig_253	62	unaligned
+34666	34850	1	185	gi_9626243_ref_NC_001416.1_	Contig_254	97.84		True
+CONTIG	Contig_254	185	correct
+CONTIG	Contig_255	87	unaligned
+36242	36320	1	79	gi_9626243_ref_NC_001416.1_	Contig_256	98.73		True
+CONTIG	Contig_256	79	correct
+CONTIG	Contig_257	50	unaligned
+21992	22090	1	99	gi_9626243_ref_NC_001416.1_	Contig_258	98.99		True
+CONTIG	Contig_258	99	correct
+CONTIG	Contig_259	75	unaligned
+6169	6314	1	146	gi_9626243_ref_NC_001416.1_	Contig_260	98.63		True
+CONTIG	Contig_260	146	correct
+9919	10017	1	99	gi_9626243_ref_NC_001416.1_	Contig_261	98.99		True
+CONTIG	Contig_261	99	correct
+35770	35893	1	124	gi_9626243_ref_NC_001416.1_	Contig_262	98.39		True
+CONTIG	Contig_262	124	correct
+43724	44023	1	300	gi_9626243_ref_NC_001416.1_	Contig_263	97.33		True
+CONTIG	Contig_263	300	correct
+CONTIG	Contig_264	64	unaligned
+31401	31682	1	282	gi_9626243_ref_NC_001416.1_	Contig_265	97.87		True
+CONTIG	Contig_265	282	correct
+40781	41080	1	300	gi_9626243_ref_NC_001416.1_	Contig_266	97.67		True
+CONTIG	Contig_266	300	correct
+513	711	1	199	gi_9626243_ref_NC_001416.1_	Contig_267	96.98		True
+CONTIG	Contig_267	199	correct
+35135	35430	5	300	gi_9626243_ref_NC_001416.1_	Contig_268	97.64		True
+CONTIG	Contig_268	300	correct
+CONTIG	Contig_269	67	unaligned
+10785	11084	1	300	gi_9626243_ref_NC_001416.1_	Contig_270	97.67		True
+CONTIG	Contig_270	300	correct
+9279	9504	1	226	gi_9626243_ref_NC_001416.1_	Contig_271	97.35		True
+CONTIG	Contig_271	226	correct
+9913	10056	1	144	gi_9626243_ref_NC_001416.1_	Contig_272	97.92		True
+CONTIG	Contig_272	144	correct
+CONTIG	Contig_273	76	unaligned
+14195	14384	1	190	gi_9626243_ref_NC_001416.1_	Contig_274	97.89		True
+CONTIG	Contig_274	190	correct
+41992	42200	1	209	gi_9626243_ref_NC_001416.1_	Contig_275	97.61		True
+CONTIG	Contig_275	209	correct
+25664	25844	1	181	gi_9626243_ref_NC_001416.1_	Contig_276	98.34		True
+CONTIG	Contig_276	181	correct
+6539	6836	1	298	gi_9626243_ref_NC_001416.1_	Contig_277	97.99		True
+CONTIG	Contig_277	298	correct
+26007	26282	1	276	gi_9626243_ref_NC_001416.1_	Contig_278	97.83		True
+CONTIG	Contig_278	276	correct
+41303	41422	1	120	gi_9626243_ref_NC_001416.1_	Contig_279	98.33		True
+CONTIG	Contig_279	120	correct
+34782	34909	1	128	gi_9626243_ref_NC_001416.1_	Contig_280	98.44		True
+CONTIG	Contig_280	128	correct
+4157	4294	1	138	gi_9626243_ref_NC_001416.1_	Contig_281	97.1		True
+CONTIG	Contig_281	138	correct
+CONTIG	Contig_282	81	unaligned
+27749	27877	1	129	gi_9626243_ref_NC_001416.1_	Contig_283	97.67		True
+CONTIG	Contig_283	129	correct
+9143	9339	1	197	gi_9626243_ref_NC_001416.1_	Contig_284	97.46		True
+CONTIG	Contig_284	197	correct
+27238	27458	1	221	gi_9626243_ref_NC_001416.1_	Contig_285	97.74		True
+CONTIG	Contig_285	221	correct
+34156	34455	1	300	gi_9626243_ref_NC_001416.1_	Contig_286	97.67		True
+CONTIG	Contig_286	300	correct
+2	82	1	81	gi_9626243_ref_NC_001416.1_	Contig_287	97.53		True
+CONTIG	Contig_287	81	correct
+8596	8895	1	300	gi_9626243_ref_NC_001416.1_	Contig_288	97.67		True
+CONTIG	Contig_288	300	correct
+3111	3273	1	163	gi_9626243_ref_NC_001416.1_	Contig_289	98.16		True
+CONTIG	Contig_289	163	correct
+23909	24208	1	300	gi_9626243_ref_NC_001416.1_	Contig_290	98.0		True
+CONTIG	Contig_290	300	correct
+9811	9951	1	141	gi_9626243_ref_NC_001416.1_	Contig_291	97.87		True
+CONTIG	Contig_291	141	correct
+47660	47959	1	300	gi_9626243_ref_NC_001416.1_	Contig_292	98.0		True
+CONTIG	Contig_292	300	correct
+20691	20883	1	193	gi_9626243_ref_NC_001416.1_	Contig_293	97.41		True
+CONTIG	Contig_293	193	correct
+7290	7381	1	92	gi_9626243_ref_NC_001416.1_	Contig_294	98.91		True
+CONTIG	Contig_294	92	correct
+9837	9933	1	97	gi_9626243_ref_NC_001416.1_	Contig_295	98.97		True
+CONTIG	Contig_295	97	correct
+48320	48478	1	159	gi_9626243_ref_NC_001416.1_	Contig_296	98.11		True
+CONTIG	Contig_296	159	correct
+CONTIG	Contig_297	56	unaligned
+30974	31228	1	255	gi_9626243_ref_NC_001416.1_	Contig_298	97.25		True
+CONTIG	Contig_298	255	correct
+7361	7536	1	176	gi_9626243_ref_NC_001416.1_	Contig_299	98.3		True
+CONTIG	Contig_299	176	correct
+31849	32244	1	395	gi_9626243_ref_NC_001416.1_	Contig_300	97.47		True
+local misassembly
+31956	32148	396	588	gi_9626243_ref_NC_001416.1_	Contig_300	97.41		True
+CONTIG	Contig_300	588	correct
+46036	46122	1	87	gi_9626243_ref_NC_001416.1_	Contig_301	98.85		True
+CONTIG	Contig_301	87	correct
+7409	7507	1	99	gi_9626243_ref_NC_001416.1_	Contig_302	98.99		True
+CONTIG	Contig_302	99	correct
+5434	5540	1	107	gi_9626243_ref_NC_001416.1_	Contig_303	98.13		True
+CONTIG	Contig_303	107	correct
+7041	7137	1	97	gi_9626243_ref_NC_001416.1_	Contig_304	98.97		True
+CONTIG	Contig_304	97	correct
+CONTIG	Contig_305	56	unaligned
+4117	4319	1	203	gi_9626243_ref_NC_001416.1_	Contig_306	97.04		True
+CONTIG	Contig_306	203	correct
+7233	7365	1	133	gi_9626243_ref_NC_001416.1_	Contig_307	97.74		True
+CONTIG	Contig_307	139	correct
+11850	11960	1	111	gi_9626243_ref_NC_001416.1_	Contig_308	99.1		True
+CONTIG	Contig_308	111	correct
+9944	10035	1	92	gi_9626243_ref_NC_001416.1_	Contig_309	98.91		True
+CONTIG	Contig_309	92	correct
+29401	29491	1	91	gi_9626243_ref_NC_001416.1_	Contig_310	98.9		True
+CONTIG	Contig_310	91	correct
+29472	29570	1	99	gi_9626243_ref_NC_001416.1_	Contig_311	98.99		True
+CONTIG	Contig_311	99	correct
+19968	20267	1	300	gi_9626243_ref_NC_001416.1_	Contig_312	98.0		True
+CONTIG	Contig_312	300	correct
+7041	7136	1	96	gi_9626243_ref_NC_001416.1_	Contig_313	98.96		True
+CONTIG	Contig_313	96	correct
+7150	7248	1	99	gi_9626243_ref_NC_001416.1_	Contig_314	98.99		True
+CONTIG	Contig_314	99	correct
+10567	10866	1	300	gi_9626243_ref_NC_001416.1_	Contig_315	98.33		True
+CONTIG	Contig_315	300	correct
+CONTIG	Contig_316	57	unaligned
+48246	48391	1	146	gi_9626243_ref_NC_001416.1_	Contig_317	98.63		True
+CONTIG	Contig_317	146	correct
+39478	39545	1	68	gi_9626243_ref_NC_001416.1_	Contig_318	100.0		True
+CONTIG	Contig_318	68	correct
+CONTIG	Contig_319	70	unaligned
+11466	11716	1	251	gi_9626243_ref_NC_001416.1_	Contig_320	97.61		True
+CONTIG	Contig_320	251	correct
+46186	46275	2	91	gi_9626243_ref_NC_001416.1_	Contig_321	98.89		True
+CONTIG	Contig_321	91	correct
+10010	10123	1	114	gi_9626243_ref_NC_001416.1_	Contig_322	98.25		True
+CONTIG	Contig_322	114	correct
+9926	10021	1	96	gi_9626243_ref_NC_001416.1_	Contig_323	98.96		True
+CONTIG	Contig_323	96	correct
+29426	29599	1	174	gi_9626243_ref_NC_001416.1_	Contig_324	96.55		True
+CONTIG	Contig_324	174	correct
+CONTIG	Contig_325	53	unaligned
+41706	41804	1	99	gi_9626243_ref_NC_001416.1_	Contig_326	98.99		True
+CONTIG	Contig_326	99	correct
+38811	39110	1	300	gi_9626243_ref_NC_001416.1_	Contig_327	97.67		True
+CONTIG	Contig_327	300	correct
+42322	42603	1	282	gi_9626243_ref_NC_001416.1_	Contig_328	97.16		True
+CONTIG	Contig_328	282	correct
+23628	23779	1	152	gi_9626243_ref_NC_001416.1_	Contig_329	98.03		True
+CONTIG	Contig_329	152	correct
+22021	22280	1	260	gi_9626243_ref_NC_001416.1_	Contig_330	98.08		True
+CONTIG	Contig_330	260	correct
+13034	13128	1	95	gi_9626243_ref_NC_001416.1_	Contig_331	98.95		True
+CONTIG	Contig_331	95	correct
+12978	13054	13	89	gi_9626243_ref_NC_001416.1_	Contig_332	98.7		True
+CONTIG	Contig_332	89	correct
+43571	43836	1	266	gi_9626243_ref_NC_001416.1_	Contig_333	97.74		True
+CONTIG	Contig_333	266	correct
+725	805	1	81	gi_9626243_ref_NC_001416.1_	Contig_334	100.0		True
+CONTIG	Contig_334	81	correct
+21916	22104	1	189	gi_9626243_ref_NC_001416.1_	Contig_335	97.35		True
+CONTIG	Contig_335	189	correct
+187	320	7	140	gi_9626243_ref_NC_001416.1_	Contig_336	96.27		True
+CONTIG	Contig_336	140	correct
+33116	33252	1	137	gi_9626243_ref_NC_001416.1_	Contig_337	97.81		True
+CONTIG	Contig_337	137	correct
+CONTIG	Contig_338	54	unaligned
+15	79	1	65	gi_9626243_ref_NC_001416.1_	Contig_339	100.0		True
+CONTIG	Contig_339	65	correct
+33939	34238	1	300	gi_9626243_ref_NC_001416.1_	Contig_340	98.0		True
+CONTIG	Contig_340	300	correct
+30569	30867	2	300	gi_9626243_ref_NC_001416.1_	Contig_341	97.66		True
+CONTIG	Contig_341	300	correct
+39964	40098	1	135	gi_9626243_ref_NC_001416.1_	Contig_342	99.26		True
+CONTIG	Contig_342	135	correct
+12862	13000	1	139	gi_9626243_ref_NC_001416.1_	Contig_343	97.84		True
+CONTIG	Contig_343	139	correct
+13283	13471	1	189	gi_9626243_ref_NC_001416.1_	Contig_344	97.88		True
+CONTIG	Contig_344	189	correct
+1730	1918	7	194	gi_9626243_ref_NC_001416.1_	Contig_345	97.89		True
+local misassembly
+1804	2020	195	411	gi_9626243_ref_NC_001416.1_	Contig_345	98.16		True
+CONTIG	Contig_345	414	correct
+41215	41290	1	76	gi_9626243_ref_NC_001416.1_	Contig_346	98.68		True
+CONTIG	Contig_346	76	correct
+41431	41514	1	84	gi_9626243_ref_NC_001416.1_	Contig_347	98.81		True
+CONTIG	Contig_347	84	correct
+4857	5156	1	300	gi_9626243_ref_NC_001416.1_	Contig_348	97.67		True
+CONTIG	Contig_348	300	correct
+37956	38075	1	120	gi_9626243_ref_NC_001416.1_	Contig_349	98.33		True
+CONTIG	Contig_349	120	correct
+3016	3114	1	99	gi_9626243_ref_NC_001416.1_	Contig_350	98.99		True
+CONTIG	Contig_350	99	correct
+3888	3965	1	78	gi_9626243_ref_NC_001416.1_	Contig_351	98.72		True
+CONTIG	Contig_351	78	correct
+12996	13094	1	99	gi_9626243_ref_NC_001416.1_	Contig_352	98.99		True
+CONTIG	Contig_352	99	correct
+18347	18445	1	99	gi_9626243_ref_NC_001416.1_	Contig_353	98.99		True
+CONTIG	Contig_353	99	correct
+1697	1903	1	207	gi_9626243_ref_NC_001416.1_	Contig_354	97.58		True
+CONTIG	Contig_354	207	correct
+15744	15930	1	187	gi_9626243_ref_NC_001416.1_	Contig_355	96.79		True
+CONTIG	Contig_355	187	correct
+CONTIG	Contig_356	74	unaligned
+CONTIG	Contig_357	102	unaligned
+42073	42190	1	118	gi_9626243_ref_NC_001416.1_	Contig_358	97.46		True
+CONTIG	Contig_358	118	correct
+41535	41633	1	99	gi_9626243_ref_NC_001416.1_	Contig_359	98.99		True
+CONTIG	Contig_359	99	correct
+7502	7573	1	72	gi_9626243_ref_NC_001416.1_	Contig_360	98.61		True
+CONTIG	Contig_360	72	correct
+CONTIG	Contig_361	74	unaligned
+16364	16445	1	82	gi_9626243_ref_NC_001416.1_	Contig_362	97.56		True
+CONTIG	Contig_362	82	correct
+7434	7576	1	143	gi_9626243_ref_NC_001416.1_	Contig_363	98.6		True
+CONTIG	Contig_363	143	correct
+35725	35836	1	112	gi_9626243_ref_NC_001416.1_	Contig_364	98.21		True
+CONTIG	Contig_364	112	correct
+40030	40129	1	100	gi_9626243_ref_NC_001416.1_	Contig_365	98.0		True
+CONTIG	Contig_365	100	correct
+38244	38335	1	92	gi_9626243_ref_NC_001416.1_	Contig_366	97.83		True
+CONTIG	Contig_366	92	correct
+48333	48439	1	107	gi_9626243_ref_NC_001416.1_	Contig_367	98.13		True
+CONTIG	Contig_367	107	correct
+10497	10747	1	251	gi_9626243_ref_NC_001416.1_	Contig_368	98.01		True
+CONTIG	Contig_368	251	correct
+19713	19811	1	99	gi_9626243_ref_NC_001416.1_	Contig_369	98.99		True
+CONTIG	Contig_369	99	correct
+48249	48407	1	159	gi_9626243_ref_NC_001416.1_	Contig_370	97.48		True
+CONTIG	Contig_370	159	correct
+32700	32830	1	131	gi_9626243_ref_NC_001416.1_	Contig_371	97.71		True
+CONTIG	Contig_371	131	correct
+4612	4816	1	205	gi_9626243_ref_NC_001416.1_	Contig_372	97.07		True
+CONTIG	Contig_372	205	correct
+4083	4181	1	99	gi_9626243_ref_NC_001416.1_	Contig_373	98.99		True
+CONTIG	Contig_373	99	correct
+9911	10009	1	99	gi_9626243_ref_NC_001416.1_	Contig_374	98.99		True
+CONTIG	Contig_374	99	correct
+37246	37528	1	283	gi_9626243_ref_NC_001416.1_	Contig_375	97.88		True
+CONTIG	Contig_375	283	correct
+11780	11929	1	150	gi_9626243_ref_NC_001416.1_	Contig_376	98.0		True
+CONTIG	Contig_376	150	correct
+44378	44677	1	300	gi_9626243_ref_NC_001416.1_	Contig_377	97.0		True
+CONTIG	Contig_377	300	correct
+CONTIG	Contig_378	68	unaligned
+CONTIG	Contig_379	57	unaligned
+CONTIG	Contig_380	67	unaligned
+13193	13291	1	99	gi_9626243_ref_NC_001416.1_	Contig_381	98.99		True
+CONTIG	Contig_381	99	correct
+16742	16964	1	223	gi_9626243_ref_NC_001416.1_	Contig_382	98.21		True
+CONTIG	Contig_382	223	correct
+31452	31751	1	300	gi_9626243_ref_NC_001416.1_	Contig_383	98.0		True
+CONTIG	Contig_383	300	correct
+13227	13325	1	99	gi_9626243_ref_NC_001416.1_	Contig_384	98.99		True
+CONTIG	Contig_384	99	correct
+35833	35931	1	99	gi_9626243_ref_NC_001416.1_	Contig_385	98.99		True
+CONTIG	Contig_385	99	correct
+48184	48282	1	99	gi_9626243_ref_NC_001416.1_	Contig_386	98.99		True
+CONTIG	Contig_386	99	correct
+24675	24769	1	95	gi_9626243_ref_NC_001416.1_	Contig_387	98.95		True
+CONTIG	Contig_387	95	correct
+26992	27159	1	168	gi_9626243_ref_NC_001416.1_	Contig_388	97.62		True
+CONTIG	Contig_388	168	correct
+5832	6131	1	300	gi_9626243_ref_NC_001416.1_	Contig_389	97.33		True
+CONTIG	Contig_389	300	correct
+CONTIG	Contig_390	61	unaligned
+7134	7262	1	129	gi_9626243_ref_NC_001416.1_	Contig_391	98.45		True
+CONTIG	Contig_391	129	correct
+47592	47886	6	300	gi_9626243_ref_NC_001416.1_	Contig_392	97.63		True
+CONTIG	Contig_392	300	correct
+9915	10095	1	181	gi_9626243_ref_NC_001416.1_	Contig_393	98.34		True
+CONTIG	Contig_393	181	correct
+31975	32227	1	253	gi_9626243_ref_NC_001416.1_	Contig_394	97.23		True
+CONTIG	Contig_394	253	correct
+30823	31031	1	209	gi_9626243_ref_NC_001416.1_	Contig_395	97.61		True
+CONTIG	Contig_395	209	correct
+CONTIG	Contig_396	58	unaligned
+18363	18461	1	99	gi_9626243_ref_NC_001416.1_	Contig_397	98.99		True
+CONTIG	Contig_397	99	correct
+41697	41795	1	99	gi_9626243_ref_NC_001416.1_	Contig_398	98.99		True
+CONTIG	Contig_398	99	correct
+26733	26820	1	88	gi_9626243_ref_NC_001416.1_	Contig_399	98.86		True
+CONTIG	Contig_399	88	correct
+41257	41360	1	104	gi_9626243_ref_NC_001416.1_	Contig_400	99.04		True
+CONTIG	Contig_400	104	correct
+13123	13221	1	99	gi_9626243_ref_NC_001416.1_	Contig_401	98.99		True
+CONTIG	Contig_401	99	correct
+13199	13297	1	99	gi_9626243_ref_NC_001416.1_	Contig_402	98.99		True
+CONTIG	Contig_402	99	correct
+27224	27401	1	178	gi_9626243_ref_NC_001416.1_	Contig_403	98.31		True
+CONTIG	Contig_403	178	correct
+31268	31567	1	300	gi_9626243_ref_NC_001416.1_	Contig_404	98.0		True
+CONTIG	Contig_404	300	correct
+19606	19777	4	175	gi_9626243_ref_NC_001416.1_	Contig_405	97.09		True
+CONTIG	Contig_405	175	correct
+CONTIG	Contig_406	64	unaligned
+CONTIG	Contig_407	62	unaligned
+40172	40375	1	204	gi_9626243_ref_NC_001416.1_	Contig_408	98.04		True
+CONTIG	Contig_408	204	correct
+21868	21940	1	73	gi_9626243_ref_NC_001416.1_	Contig_409	100.0		True
+CONTIG	Contig_409	73	correct
+22013	22167	1	155	gi_9626243_ref_NC_001416.1_	Contig_410	97.42		True
+CONTIG	Contig_410	155	correct
+36019	36276	1	258	gi_9626243_ref_NC_001416.1_	Contig_411	97.67		True
+CONTIG	Contig_411	258	correct
+CONTIG	Contig_412	74	unaligned
+41709	41807	1	99	gi_9626243_ref_NC_001416.1_	Contig_413	98.99		True
+CONTIG	Contig_413	99	correct
+31029	31323	1	295	gi_9626243_ref_NC_001416.1_	Contig_414	96.95		True
+CONTIG	Contig_414	295	correct
+48318	48416	1	99	gi_9626243_ref_NC_001416.1_	Contig_415	98.99		True
+CONTIG	Contig_415	99	correct
+47143	47266	1	124	gi_9626243_ref_NC_001416.1_	Contig_416	99.19		True
+CONTIG	Contig_416	124	correct
+24600	24825	1	226	gi_9626243_ref_NC_001416.1_	Contig_417	98.23		True
+CONTIG	Contig_417	226	correct
+21074	21373	1	300	gi_9626243_ref_NC_001416.1_	Contig_418	97.33		True
+CONTIG	Contig_418	300	correct
+16857	16966	1	110	gi_9626243_ref_NC_001416.1_	Contig_419	97.27		True
+CONTIG	Contig_419	110	correct
+13198	13296	1	99	gi_9626243_ref_NC_001416.1_	Contig_420	98.99		True
+CONTIG	Contig_420	99	correct
+13254	13352	1	99	gi_9626243_ref_NC_001416.1_	Contig_421	98.99		True
+CONTIG	Contig_421	99	correct
+32871	33077	1	207	gi_9626243_ref_NC_001416.1_	Contig_422	97.1		True
+CONTIG	Contig_422	207	correct
+27026	27189	1	164	gi_9626243_ref_NC_001416.1_	Contig_423	98.17		True
+CONTIG	Contig_423	164	correct
+7297	7377	1	81	gi_9626243_ref_NC_001416.1_	Contig_424	98.77		True
+CONTIG	Contig_424	81	correct
+12918	13038	1	121	gi_9626243_ref_NC_001416.1_	Contig_425	97.52		True
+CONTIG	Contig_425	121	correct
+16357	16455	1	99	gi_9626243_ref_NC_001416.1_	Contig_426	98.99		True
+CONTIG	Contig_426	99	correct
+9867	9979	1	113	gi_9626243_ref_NC_001416.1_	Contig_427	98.23		True
+CONTIG	Contig_427	113	correct
+41556	41654	1	99	gi_9626243_ref_NC_001416.1_	Contig_428	98.99		True
+CONTIG	Contig_428	99	correct
+32959	33062	1	104	gi_9626243_ref_NC_001416.1_	Contig_429	96.15		True
+CONTIG	Contig_429	104	correct
+45	222	1	178	gi_9626243_ref_NC_001416.1_	Contig_430	96.63		True
+CONTIG	Contig_430	178	correct
+CONTIG	Contig_431	91	unaligned
+39639	39737	1	99	gi_9626243_ref_NC_001416.1_	Contig_432	98.99		True
+CONTIG	Contig_432	99	correct
+39810	39888	1	79	gi_9626243_ref_NC_001416.1_	Contig_433	97.47		True
+CONTIG	Contig_433	79	correct
+CONTIG	Contig_434	76	unaligned
+13029	13119	1	91	gi_9626243_ref_NC_001416.1_	Contig_435	97.8		True
+CONTIG	Contig_435	91	correct
+CONTIG	Contig_436	62	unaligned
+22912	23129	1	218	gi_9626243_ref_NC_001416.1_	Contig_437	98.17		True
+CONTIG	Contig_437	218	correct
+15582	15840	1	259	gi_9626243_ref_NC_001416.1_	Contig_438	98.07		True
+CONTIG	Contig_438	259	correct
+12341	12639	1	299	gi_9626243_ref_NC_001416.1_	Contig_439	97.99		True
+CONTIG	Contig_439	300	correct
+122	220	1	99	gi_9626243_ref_NC_001416.1_	Contig_440	97.98		True
+CONTIG	Contig_440	99	correct
+19688	19820	1	133	gi_9626243_ref_NC_001416.1_	Contig_441	96.24		True
+CONTIG	Contig_441	133	correct
+30504	30803	1	300	gi_9626243_ref_NC_001416.1_	Contig_442	98.0		True
+CONTIG	Contig_442	300	correct
+2880	3018	1	139	gi_9626243_ref_NC_001416.1_	Contig_443	97.84		True
+CONTIG	Contig_443	139	correct
+38245	38443	1	199	gi_9626243_ref_NC_001416.1_	Contig_444	97.99		True
+CONTIG	Contig_444	199	correct
+30877	31055	1	179	gi_9626243_ref_NC_001416.1_	Contig_445	98.32		True
+CONTIG	Contig_445	179	correct
+46345	46644	1	300	gi_9626243_ref_NC_001416.1_	Contig_446	97.67		True
+CONTIG	Contig_446	300	correct
+CONTIG	Contig_447	65	unaligned
+7283	7381	1	99	gi_9626243_ref_NC_001416.1_	Contig_448	97.98		True
+CONTIG	Contig_448	99	correct
+5923	6218	1	296	gi_9626243_ref_NC_001416.1_	Contig_449	97.64		True
+CONTIG	Contig_449	300	correct
+3069	3176	1	108	gi_9626243_ref_NC_001416.1_	Contig_450	98.15		True
+CONTIG	Contig_450	108	correct
+27232	27400	1	169	gi_9626243_ref_NC_001416.1_	Contig_451	97.04		True
+CONTIG	Contig_451	169	correct
+14150	14240	1	91	gi_9626243_ref_NC_001416.1_	Contig_452	96.7		True
+CONTIG	Contig_452	91	correct
+39846	39965	1	120	gi_9626243_ref_NC_001416.1_	Contig_453	98.33		True
+CONTIG	Contig_453	120	correct
+27069	27171	1	103	gi_9626243_ref_NC_001416.1_	Contig_454	99.03		True
+CONTIG	Contig_454	103	correct
+10414	10543	1	130	gi_9626243_ref_NC_001416.1_	Contig_455	98.46		True
+CONTIG	Contig_455	130	correct
+12006	12103	1	98	gi_9626243_ref_NC_001416.1_	Contig_456	98.98		True
+CONTIG	Contig_456	98	correct
+16973	17272	1	300	gi_9626243_ref_NC_001416.1_	Contig_457	97.33		True
+CONTIG	Contig_457	300	correct
+46112	46190	1	79	gi_9626243_ref_NC_001416.1_	Contig_458	98.73		True
+CONTIG	Contig_458	79	correct
+13182	13323	1	142	gi_9626243_ref_NC_001416.1_	Contig_459	97.89		True
+CONTIG	Contig_459	142	correct
+13318	13423	1	106	gi_9626243_ref_NC_001416.1_	Contig_460	98.11		True
+CONTIG	Contig_460	106	correct
+CONTIG	Contig_461	80	unaligned
+CONTIG	Contig_462	73	unaligned
+12927	13025	1	99	gi_9626243_ref_NC_001416.1_	Contig_463	98.99		True
+CONTIG	Contig_463	99	correct
+13263	13361	1	99	gi_9626243_ref_NC_001416.1_	Contig_464	98.99		True
+CONTIG	Contig_464	99	correct
+44502	44643	1	142	gi_9626243_ref_NC_001416.1_	Contig_465	97.89		True
+CONTIG	Contig_465	142	correct
+4508	4643	1	136	gi_9626243_ref_NC_001416.1_	Contig_466	96.32		True
+CONTIG	Contig_466	136	correct
+CONTIG	Contig_467	67	unaligned
+38981	39280	1	300	gi_9626243_ref_NC_001416.1_	Contig_468	98.0		True
+CONTIG	Contig_468	300	correct
+18345	18480	1	136	gi_9626243_ref_NC_001416.1_	Contig_469	97.79		True
+CONTIG	Contig_469	136	correct
+19854	19969	1	116	gi_9626243_ref_NC_001416.1_	Contig_470	98.28		True
+CONTIG	Contig_470	116	correct
+32563	32769	1	207	gi_9626243_ref_NC_001416.1_	Contig_471	98.07		True
+CONTIG	Contig_471	207	correct
+CONTIG	Contig_472	61	unaligned
+122	220	1	99	gi_9626243_ref_NC_001416.1_	Contig_473	97.98		True
+CONTIG	Contig_473	99	correct
+26285	26584	1	300	gi_9626243_ref_NC_001416.1_	Contig_474	98.0		True
+CONTIG	Contig_474	300	correct
+CONTIG	Contig_475	70	unaligned
+6896	7077	1	182	gi_9626243_ref_NC_001416.1_	Contig_476	98.35		True
+CONTIG	Contig_476	182	correct
+6924	7060	1	137	gi_9626243_ref_NC_001416.1_	Contig_477	97.81		True
+CONTIG	Contig_477	137	correct
+CONTIG	Contig_478	80	unaligned
+CONTIG	Contig_479	77	unaligned
+40518	40585	1	68	gi_9626243_ref_NC_001416.1_	Contig_480	100.0		True
+CONTIG	Contig_480	68	correct
+21680	21979	1	300	gi_9626243_ref_NC_001416.1_	Contig_481	97.33		True
+CONTIG	Contig_481	300	correct
+9101	9178	1	78	gi_9626243_ref_NC_001416.1_	Contig_482	98.72		True
+CONTIG	Contig_482	78	correct
+41693	41777	1	85	gi_9626243_ref_NC_001416.1_	Contig_483	98.82		True
+CONTIG	Contig_483	85	correct
+16703	16949	1	247	gi_9626243_ref_NC_001416.1_	Contig_484	97.98		True
+CONTIG	Contig_484	247	correct
+29473	29571	1	99	gi_9626243_ref_NC_001416.1_	Contig_485	98.99		True
+CONTIG	Contig_485	99	correct
+35811	35909	1	99	gi_9626243_ref_NC_001416.1_	Contig_486	98.99		True
+CONTIG	Contig_486	99	correct
+19607	19783	1	177	gi_9626243_ref_NC_001416.1_	Contig_487	96.61		True
+CONTIG	Contig_487	177	correct
+44444	44670	1	227	gi_9626243_ref_NC_001416.1_	Contig_488	97.8		True
+CONTIG	Contig_488	227	correct
+5378	5533	1	156	gi_9626243_ref_NC_001416.1_	Contig_489	98.08		True
+CONTIG	Contig_489	156	correct
+30118	30417	1	300	gi_9626243_ref_NC_001416.1_	Contig_490	97.33		True
+CONTIG	Contig_490	300	correct

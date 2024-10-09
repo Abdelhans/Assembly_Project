@@ -1,0 +1,2 @@
+Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	Reference length	GC (%)	Reference GC (%)	N50	N75	L50	L75	# unaligned contigs	Unaligned length	# N's per 100 kbp	NGA50
+sortie_Hard	2	2	1	0	0	0	8034	8034	5307	0	0	0	2	5307	8034	48576	39.38	49.87	5307	2727	1	2	2 + 0 part	8034	0.00	-

@@ -1,0 +1,28 @@
+/shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/quast.py --threads 32 --min-contig 1 -r Reference_1.fa -o quast_alloutput sortie_medium.fasta sortie_sequencage1.fasta sortie_Hard.fasta sortie_sequencagesserreur.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.6.1.el7.x86_64-x86_64-with-centos-7.5.1804-Core (linux_64)
+  Python version: 3.6.12
+  CPUs number: 56
+
+Started: 2023-05-05 18:10:56
+
+Logging to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_alloutput/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset
+Main parameters: 
+  MODE: default, threads: 32, minimum contig length: 1, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+
+    ERROR! Skipping /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/Reference_1.fa because >sequence_name field is empty.
+
+ERROR! Reference file /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/Reference_1.fa is empty or contains incorrect sequences (header-only or with non-ACGTN characters)!
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.

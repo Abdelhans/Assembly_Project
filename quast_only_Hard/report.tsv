@@ -1,0 +1,27 @@
+Assembly	sortie_Hard
+# contigs (>= 0 bp)	2
+# contigs (>= 1000 bp)	2
+# contigs (>= 5000 bp)	1
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	8034
+Total length (>= 1000 bp)	8034
+Total length (>= 5000 bp)	5307
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	2
+Largest contig	5307
+Total length	8034
+Reference length	48576
+GC (%)	39.38
+Reference GC (%)	49.87
+N50	5307
+N75	2727
+L50	1
+L75	2
+# unaligned contigs	2 + 0 part
+Unaligned length	8034
+# N's per 100 kbp	0.00
+NGA50	-

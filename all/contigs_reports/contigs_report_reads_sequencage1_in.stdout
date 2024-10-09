@@ -1,0 +1,2995 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [gi_9626243_ref_NC_001416.1_]
+	Total Regions: 1
+	Total Region Length: 48576
+Analyzing contigs...
+CONTIG: 0 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 34873 35172 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 0
+
+CONTIG: 6 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 11389 11688 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6
+
+CONTIG: 7 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 19429 19728 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7
+
+CONTIG: 14 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 2954 3253 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 14
+
+CONTIG: 17 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 35878 36177 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 17
+
+CONTIG: 36 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 25595 25894 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 36
+
+CONTIG: 40 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 22200 22499 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 40
+
+CONTIG: 81 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7006 7305 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 81
+
+CONTIG: 88 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 19629 19928 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 88
+
+CONTIG: 89 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 24676 24975 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 89
+
+CONTIG: 99 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 46052 46351 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 99
+
+CONTIG: 101 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 41274 41573 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 101
+
+CONTIG: 108 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 9921 10220 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 108
+
+CONTIG: 117 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48160 48459 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 117
+
+CONTIG: 127 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 39455 39754 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 127
+
+CONTIG: 130 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 1885 2184 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 130
+
+CONTIG: 148 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 19510 19809 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 148
+
+CONTIG: 183 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7105 7404 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 183
+
+CONTIG: 193 (300bp)
+Best alignment score: 290.0 (LEN: 298, IDY: 97.32), Total number of alignments: 1
+		One align captures most of this contig: 26693 26990 | 1 298 | 298 298 | 97.32 | gi_9626243_ref_NC_001416.1_ 193
+
+CONTIG: 206 (300bp)
+Best alignment score: 294.0 (LEN: 296, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 35749 36044 | 5 300 | 296 296 | 99.32 | gi_9626243_ref_NC_001416.1_ 206
+
+CONTIG: 228 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 11831 12130 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 228
+
+CONTIG: 250 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 29362 29661 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 250
+
+CONTIG: 257 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 32739 33038 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 257
+
+CONTIG: 283 (300bp)
+Best alignment score: 288.0 (LEN: 294, IDY: 97.96), Total number of alignments: 1
+		One align captures most of this contig: 1294 1587 | 7 300 | 294 294 | 97.96 | gi_9626243_ref_NC_001416.1_ 283
+
+CONTIG: 287 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 14708 15007 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 287
+
+CONTIG: 289 (300bp)
+Best alignment score: 288.0 (LEN: 295, IDY: 97.63), Total number of alignments: 1
+		One align captures most of this contig: 7167 7461 | 1 295 | 295 295 | 97.63 | gi_9626243_ref_NC_001416.1_ 289
+
+CONTIG: 291 (300bp)
+Best alignment score: 289.0 (LEN: 291, IDY: 99.31), Total number of alignments: 1
+		One align captures most of this contig: 34 324 | 5 295 | 291 291 | 99.31 | gi_9626243_ref_NC_001416.1_ 291
+
+CONTIG: 294 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 33905 34204 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 294
+
+CONTIG: 296 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 27555 27854 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 296
+
+CONTIG: 302 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19546 19845 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 302
+
+CONTIG: 310 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 9786 10085 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 310
+
+CONTIG: 319 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 43126 43425 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 319
+
+CONTIG: 336 (300bp)
+Best alignment score: 294.0 (LEN: 298, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 3060 3357 | 1 298 | 298 298 | 98.66 | gi_9626243_ref_NC_001416.1_ 336
+
+CONTIG: 358 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 4083 4382 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 358
+
+CONTIG: 370 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41379 41678 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 370
+
+CONTIG: 371 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 16468 16767 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 371
+
+CONTIG: 378 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 45979 46278 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 378
+
+CONTIG: 417 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13353 13652 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 417
+
+CONTIG: 419 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 23065 23364 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 419
+
+CONTIG: 445 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 12822 13121 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 445
+
+CONTIG: 459 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7253 7552 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 459
+
+CONTIG: 468 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 16302 16601 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 468
+
+CONTIG: 492 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 5482 5781 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 492
+
+CONTIG: 495 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 32864 33163 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 495
+
+CONTIG: 505 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 9717 10016 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 505
+
+CONTIG: 530 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41428 41727 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 530
+
+CONTIG: 531 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 12876 13175 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 531
+
+CONTIG: 535 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 13036 13335 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 535
+
+CONTIG: 561 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 40422 40721 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 561
+
+CONTIG: 571 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 110 409 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 571
+
+CONTIG: 573 (300bp)
+Best alignment score: 296.0 (LEN: 298, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35800 36097 | 1 298 | 298 298 | 99.33 | gi_9626243_ref_NC_001416.1_ 573
+
+CONTIG: 578 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 13346 13645 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 578
+
+CONTIG: 582 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3881 4180 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 582
+
+CONTIG: 586 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41611 41910 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 586
+
+CONTIG: 591 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 36271 36570 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 591
+
+CONTIG: 612 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 34814 35113 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 612
+
+CONTIG: 613 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 7174 7473 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 613
+
+CONTIG: 628 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41444 41743 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 628
+
+CONTIG: 638 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 5487 5786 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 638
+
+CONTIG: 642 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 12870 13169 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 642
+
+CONTIG: 644 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 20753 21052 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 644
+
+CONTIG: 646 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19547 19846 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 646
+
+CONTIG: 657 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 3912 4211 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 657
+
+CONTIG: 658 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 13076 13375 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 658
+
+CONTIG: 669 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 18247 18546 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 669
+
+CONTIG: 690 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 40491 40790 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 690
+
+CONTIG: 696 (300bp)
+Best alignment score: 292.0 (LEN: 299, IDY: 97.66), Total number of alignments: 1
+		One align captures most of this contig: 29281 29579 | 1 299 | 299 299 | 97.66 | gi_9626243_ref_NC_001416.1_ 696
+
+CONTIG: 707 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19176 19475 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 707
+
+CONTIG: 713 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19609 19908 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 713
+
+CONTIG: 714 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 25425 25724 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 714
+
+CONTIG: 723 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35617 35916 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 723
+
+CONTIG: 730 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 29434 29733 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 730
+
+CONTIG: 741 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 16430 16729 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 741
+
+CONTIG: 757 (300bp)
+Best alignment score: 291.0 (LEN: 296, IDY: 98.31), Total number of alignments: 1
+		One align captures most of this contig: 38080 38375 | 2 297 | 296 296 | 98.31 | gi_9626243_ref_NC_001416.1_ 757
+
+CONTIG: 764 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7267 7566 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 764
+
+CONTIG: 769 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 6244 6543 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 769
+
+CONTIG: 800 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 4098 4397 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 800
+
+CONTIG: 810 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 14388 14687 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 810
+
+CONTIG: 814 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 14550 14849 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 814
+
+CONTIG: 817 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 47359 47658 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 817
+
+CONTIG: 833 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 20584 20883 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 833
+
+CONTIG: 834 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 32705 33004 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 834
+
+CONTIG: 839 (300bp)
+Best alignment score: 293.0 (LEN: 299, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 1469 1767 | 1 299 | 299 299 | 97.99 | gi_9626243_ref_NC_001416.1_ 839
+
+CONTIG: 853 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 38165 38464 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 853
+
+CONTIG: 855 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 21885 22184 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 855
+
+CONTIG: 863 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 1041 1340 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 863
+
+CONTIG: 916 (300bp)
+Best alignment score: 296.0 (LEN: 299, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13171 13469 | 1 299 | 299 299 | 99.0 | gi_9626243_ref_NC_001416.1_ 916
+
+CONTIG: 923 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 16680 16979 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 923
+
+CONTIG: 943 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 41429 41728 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 943
+
+CONTIG: 950 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 47039 47338 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 950
+
+CONTIG: 951 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 19743 20042 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 951
+
+CONTIG: 961 (300bp)
+Best alignment score: 291.0 (LEN: 294, IDY: 98.98), Total number of alignments: 1
+		One align captures most of this contig: 13124 13417 | 7 300 | 294 294 | 98.98 | gi_9626243_ref_NC_001416.1_ 961
+
+CONTIG: 972 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 15761 16060 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 972
+
+CONTIG: 979 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 13060 13359 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 979
+
+CONTIG: 989 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 39423 39722 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 989
+
+CONTIG: 1001 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 45590 45889 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1001
+
+CONTIG: 1006 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 353 652 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 1006
+
+CONTIG: 1023 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 3160 3459 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1023
+
+CONTIG: 1026 (300bp)
+Best alignment score: 292.0 (LEN: 294, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 12991 13284 | 7 300 | 294 294 | 99.32 | gi_9626243_ref_NC_001416.1_ 1026
+
+CONTIG: 1051 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 33373 33672 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1051
+
+CONTIG: 1057 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 3080 3379 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1057
+
+CONTIG: 1066 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41514 41813 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1066
+
+CONTIG: 1101 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 3953 4252 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 1101
+
+CONTIG: 1107 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19430 19729 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1107
+
+CONTIG: 1133 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 14992 15291 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1133
+
+CONTIG: 1160 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 35840 36139 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1160
+
+CONTIG: 1164 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 1051 1350 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1164
+
+CONTIG: 1175 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26001 26300 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1175
+
+CONTIG: 1191 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19566 19865 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1191
+
+CONTIG: 1193 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 38761 39060 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1193
+
+CONTIG: 1207 (300bp)
+Best alignment score: 292.0 (LEN: 294, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 41653 41946 | 5 298 | 294 294 | 99.32 | gi_9626243_ref_NC_001416.1_ 1207
+
+CONTIG: 1220 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 12993 13292 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1220
+
+CONTIG: 1227 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 38204 38503 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1227
+
+CONTIG: 1251 (300bp)
+Best alignment score: 288.0 (LEN: 293, IDY: 98.29), Total number of alignments: 1
+		One align captures most of this contig: 61 353 | 1 293 | 293 293 | 98.29 | gi_9626243_ref_NC_001416.1_ 1251
+
+CONTIG: 1255 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 18260 18559 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1255
+
+CONTIG: 1268 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 39556 39855 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1268
+
+CONTIG: 1270 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19437 19736 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1270
+
+CONTIG: 1297 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 29369 29668 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1297
+
+CONTIG: 1307 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13275 13574 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1307
+
+CONTIG: 1310 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 5 304 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1310
+
+CONTIG: 1314 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 1622 1921 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 1314
+
+CONTIG: 1319 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48145 48444 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1319
+
+CONTIG: 1370 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 39492 39791 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1370
+
+CONTIG: 1375 (300bp)
+Best alignment score: 296.0 (LEN: 299, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 4046 4344 | 2 300 | 299 299 | 99.0 | gi_9626243_ref_NC_001416.1_ 1375
+
+CONTIG: 1379 (300bp)
+Best alignment score: 295.0 (LEN: 298, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 46118 46415 | 1 298 | 298 298 | 98.99 | gi_9626243_ref_NC_001416.1_ 1379
+
+CONTIG: 1393 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 46079 46378 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1393
+
+CONTIG: 1402 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 16265 16564 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1402
+
+CONTIG: 1412 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 11932 12231 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1412
+
+CONTIG: 1416 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9760 10059 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1416
+
+CONTIG: 1423 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 39809 40108 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1423
+
+CONTIG: 1475 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 40513 40812 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1475
+
+CONTIG: 1482 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 36212 36511 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1482
+
+CONTIG: 1493 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 48252 48551 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1493
+
+CONTIG: 1542 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 22215 22514 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1542
+
+CONTIG: 1544 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48221 48520 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1544
+
+CONTIG: 1558 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 44769 45068 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1558
+
+CONTIG: 1566 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3939 4238 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1566
+
+CONTIG: 1585 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 35577 35876 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1585
+
+CONTIG: 1591 (300bp)
+Best alignment score: 287.0 (LEN: 292, IDY: 98.29), Total number of alignments: 1
+		One align captures most of this contig: 11655 11946 | 9 300 | 292 292 | 98.29 | gi_9626243_ref_NC_001416.1_ 1591
+
+CONTIG: 1599 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 11018 11317 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1599
+
+CONTIG: 1607 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 45863 46162 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1607
+
+CONTIG: 1610 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 39601 39900 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 1610
+
+CONTIG: 1615 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 13623 13922 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1615
+
+CONTIG: 1634 (300bp)
+Best alignment score: 288.0 (LEN: 294, IDY: 97.96), Total number of alignments: 1
+		One align captures most of this contig: 22611 22904 | 1 294 | 294 294 | 97.96 | gi_9626243_ref_NC_001416.1_ 1634
+
+CONTIG: 1644 (300bp)
+Best alignment score: 295.0 (LEN: 299, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 12840 13138 | 2 300 | 299 299 | 98.66 | gi_9626243_ref_NC_001416.1_ 1644
+
+CONTIG: 1661 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 41192 41491 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1661
+
+CONTIG: 1662 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 66 365 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 1662
+
+CONTIG: 1673 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 31157 31456 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 1673
+
+CONTIG: 1679 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 4043 4342 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1679
+
+CONTIG: 1700 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 47720 48019 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1700
+
+CONTIG: 1705 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41633 41932 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1705
+
+CONTIG: 1708 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35942 36241 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1708
+
+CONTIG: 1742 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19551 19850 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1742
+
+CONTIG: 1748 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 14994 15293 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1748
+
+CONTIG: 1751 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 29216 29515 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1751
+
+CONTIG: 1777 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19520 19819 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1777
+
+CONTIG: 1778 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41658 41957 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1778
+
+CONTIG: 1788 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 45993 46292 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1788
+
+CONTIG: 1799 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19 318 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1799
+
+CONTIG: 1811 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26729 27028 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1811
+
+CONTIG: 1824 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41441 41740 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 1824
+
+CONTIG: 1866 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16324 16623 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1866
+
+CONTIG: 1898 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39556 39855 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 1898
+
+CONTIG: 1900 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 48236 48535 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1900
+
+CONTIG: 1904 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 4580 4879 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1904
+
+CONTIG: 1908 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13133 13432 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 1908
+
+CONTIG: 1919 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 20269 20568 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1919
+
+CONTIG: 1956 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 48219 48518 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 1956
+
+CONTIG: 1959 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 23136 23435 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 1959
+
+CONTIG: 1978 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 19746 20045 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 1978
+
+CONTIG: 1997 (300bp)
+Best alignment score: 288.0 (LEN: 294, IDY: 97.96), Total number of alignments: 1
+		One align captures most of this contig: 27369 27662 | 7 300 | 294 294 | 97.96 | gi_9626243_ref_NC_001416.1_ 1997
+
+CONTIG: 2000 (300bp)
+Best alignment score: 290.0 (LEN: 300, IDY: 96.67), Total number of alignments: 1
+		One align captures most of this contig: 19454 19753 | 1 300 | 300 300 | 96.67 | gi_9626243_ref_NC_001416.1_ 2000
+
+CONTIG: 2020 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 5543 5842 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2020
+
+CONTIG: 2036 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 32546 32845 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2036
+
+CONTIG: 2040 (300bp)
+Best alignment score: 287.0 (LEN: 295, IDY: 97.29), Total number of alignments: 1
+		One align captures most of this contig: 8515 8809 | 1 295 | 295 295 | 97.29 | gi_9626243_ref_NC_001416.1_ 2040
+
+CONTIG: 2047 (300bp)
+Best alignment score: 292.0 (LEN: 298, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 9895 10192 | 3 300 | 298 298 | 97.99 | gi_9626243_ref_NC_001416.1_ 2047
+
+CONTIG: 2078 (300bp)
+Best alignment score: 293.0 (LEN: 298, IDY: 98.32), Total number of alignments: 1
+		One align captures most of this contig: 3885 4182 | 3 300 | 298 298 | 98.32 | gi_9626243_ref_NC_001416.1_ 2078
+
+CONTIG: 2087 (300bp)
+Best alignment score: 289.0 (LEN: 292, IDY: 98.97), Total number of alignments: 1
+		One align captures most of this contig: 35809 36100 | 9 300 | 292 292 | 98.97 | gi_9626243_ref_NC_001416.1_ 2087
+
+CONTIG: 2118 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 36233 36532 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2118
+
+CONTIG: 2119 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 14966 15265 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2119
+
+CONTIG: 2137 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 27637 27936 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2137
+
+CONTIG: 2156 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 29855 30154 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2156
+
+CONTIG: 2157 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 13139 13438 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 2157
+
+CONTIG: 2166 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9741 10040 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2166
+
+CONTIG: 2171 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 26553 26852 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2171
+
+CONTIG: 2172 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 34627 34926 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2172
+
+CONTIG: 2207 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 18159 18458 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2207
+
+CONTIG: 2213 (300bp)
+Best alignment score: 291.0 (LEN: 298, IDY: 97.65), Total number of alignments: 1
+		One align captures most of this contig: 2175 2472 | 3 300 | 298 298 | 97.65 | gi_9626243_ref_NC_001416.1_ 2213
+
+CONTIG: 2216 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7073 7372 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2216
+
+CONTIG: 2232 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7167 7466 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2232
+
+CONTIG: 2242 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 16987 17286 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2242
+
+CONTIG: 2266 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12809 13108 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2266
+
+CONTIG: 2273 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19672 19971 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 2273
+
+CONTIG: 2275 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 6710 7009 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 2275
+
+CONTIG: 2280 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 37238 37537 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2280
+
+CONTIG: 2326 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 20278 20577 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2326
+
+CONTIG: 2328 (300bp)
+Best alignment score: 290.0 (LEN: 300, IDY: 96.67), Total number of alignments: 1
+		One align captures most of this contig: 13906 14205 | 1 300 | 300 300 | 96.67 | gi_9626243_ref_NC_001416.1_ 2328
+
+CONTIG: 2333 (300bp)
+Best alignment score: 290.0 (LEN: 296, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 992 1287 | 5 300 | 296 296 | 97.97 | gi_9626243_ref_NC_001416.1_ 2333
+
+CONTIG: 2337 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35560 35859 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2337
+
+CONTIG: 2357 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 35693 35992 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2357
+
+CONTIG: 2361 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 14587 14886 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2361
+
+CONTIG: 2374 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 44972 45271 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2374
+
+CONTIG: 2377 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 44442 44741 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2377
+
+CONTIG: 2403 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 39143 39442 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2403
+
+CONTIG: 2432 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19658 19957 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2432
+
+CONTIG: 2440 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19239 19538 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2440
+
+CONTIG: 2453 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 25663 25962 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2453
+
+CONTIG: 2462 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 36203 36502 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 2462
+
+CONTIG: 2489 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 619 918 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2489
+
+CONTIG: 2492 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 43 342 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2492
+
+CONTIG: 2494 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19669 19968 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 2494
+
+CONTIG: 2501 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 40570 40869 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2501
+
+CONTIG: 2503 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 36205 36504 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2503
+
+CONTIG: 2518 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 41339 41638 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 2518
+
+CONTIG: 2549 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12978 13277 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2549
+
+CONTIG: 2551 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 36257 36556 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2551
+
+CONTIG: 2580 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3931 4230 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 2580
+
+CONTIG: 2585 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 32599 32898 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2585
+
+CONTIG: 2613 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 145 444 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2613
+
+CONTIG: 2615 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35878 36177 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 2615
+
+CONTIG: 2616 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 39366 39665 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2616
+
+CONTIG: 2627 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 23424 23723 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2627
+
+CONTIG: 2636 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 8389 8688 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2636
+
+CONTIG: 2637 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9796 10095 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2637
+
+CONTIG: 2638 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41594 41893 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 2638
+
+CONTIG: 2647 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39523 39822 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2647
+
+CONTIG: 2654 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13026 13325 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2654
+
+CONTIG: 2655 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 43605 43904 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2655
+
+CONTIG: 2665 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 9941 10240 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2665
+
+CONTIG: 2666 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 14451 14750 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2666
+
+CONTIG: 2667 (300bp)
+Best alignment score: 298.0 (LEN: 298, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 46021 46318 | 3 300 | 298 298 | 100.0 | gi_9626243_ref_NC_001416.1_ 2667
+
+CONTIG: 2694 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 29526 29825 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2694
+
+CONTIG: 2711 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 24840 25139 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2711
+
+CONTIG: 2734 (300bp)
+Best alignment score: 292.0 (LEN: 294, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 13024 13317 | 1 294 | 294 294 | 99.32 | gi_9626243_ref_NC_001416.1_ 2734
+
+CONTIG: 2735 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13112 13411 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2735
+
+CONTIG: 2754 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 34755 35054 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2754
+
+CONTIG: 2759 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 2951 3250 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2759
+
+CONTIG: 2763 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7364 7663 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2763
+
+CONTIG: 2769 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 24545 24844 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2769
+
+CONTIG: 2775 (300bp)
+Best alignment score: 293.0 (LEN: 295, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 35915 36209 | 6 300 | 295 295 | 99.32 | gi_9626243_ref_NC_001416.1_ 2775
+
+CONTIG: 2782 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35826 36125 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2782
+
+CONTIG: 2794 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39604 39903 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2794
+
+CONTIG: 2800 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 14200 14499 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2800
+
+CONTIG: 2810 (300bp)
+Best alignment score: 290.0 (LEN: 300, IDY: 96.67), Total number of alignments: 1
+		One align captures most of this contig: 23371 23670 | 1 300 | 300 300 | 96.67 | gi_9626243_ref_NC_001416.1_ 2810
+
+CONTIG: 2817 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 4095 4394 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2817
+
+CONTIG: 2819 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19005 19304 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2819
+
+CONTIG: 2825 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 30789 31088 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2825
+
+CONTIG: 2827 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 12087 12386 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 2827
+
+CONTIG: 2844 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 41705 42004 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2844
+
+CONTIG: 2850 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 4137 4436 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 2850
+
+CONTIG: 2867 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39497 39796 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2867
+
+CONTIG: 2869 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 19484 19783 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 2869
+
+CONTIG: 2874 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12795 13094 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 2874
+
+CONTIG: 2893 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 40097 40396 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 2893
+
+CONTIG: 2899 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 22882 23181 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 2899
+
+CONTIG: 2906 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41382 41681 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2906
+
+CONTIG: 2950 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 2844 3143 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 2950
+
+CONTIG: 3008 (300bp)
+Best alignment score: 292.0 (LEN: 294, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 74 367 | 7 300 | 294 294 | 99.32 | gi_9626243_ref_NC_001416.1_ 3008
+
+CONTIG: 3009 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19666 19965 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3009
+
+CONTIG: 3031 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 27083 27382 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 3031
+
+CONTIG: 3035 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 24629 24928 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3035
+
+CONTIG: 3042 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 2977 3276 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3042
+
+CONTIG: 3057 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 4282 4581 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3057
+
+CONTIG: 3063 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 29513 29812 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3063
+
+CONTIG: 3065 (300bp)
+Best alignment score: 297.0 (LEN: 299, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 14584 14882 | 2 300 | 299 299 | 99.33 | gi_9626243_ref_NC_001416.1_ 3065
+
+CONTIG: 3075 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13231 13530 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3075
+
+CONTIG: 3084 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26604 26903 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3084
+
+CONTIG: 3089 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 42110 42409 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3089
+
+CONTIG: 3091 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41524 41823 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3091
+
+CONTIG: 3094 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 33011 33310 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3094
+
+CONTIG: 3149 (300bp)
+Best alignment score: 294.0 (LEN: 296, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 14584 14879 | 5 300 | 296 296 | 99.32 | gi_9626243_ref_NC_001416.1_ 3149
+
+CONTIG: 3152 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35631 35930 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3152
+
+CONTIG: 3187 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35586 35885 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3187
+
+CONTIG: 3232 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 33744 34043 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 3232
+
+CONTIG: 3233 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 20865 21164 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3233
+
+CONTIG: 3246 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35861 36160 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 3246
+
+CONTIG: 3250 (300bp)
+Best alignment score: 288.0 (LEN: 294, IDY: 97.96), Total number of alignments: 1
+		One align captures most of this contig: 17073 17366 | 7 300 | 294 294 | 97.96 | gi_9626243_ref_NC_001416.1_ 3250
+
+CONTIG: 3251 (300bp)
+Best alignment score: 295.0 (LEN: 298, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 5403 5700 | 1 298 | 298 298 | 98.99 | gi_9626243_ref_NC_001416.1_ 3251
+
+CONTIG: 3257 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 27186 27485 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3257
+
+CONTIG: 3271 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41 340 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3271
+
+CONTIG: 3283 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 37563 37862 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3283
+
+CONTIG: 3290 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 24589 24888 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3290
+
+CONTIG: 3294 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19546 19845 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3294
+
+CONTIG: 3320 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 31617 31916 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3320
+
+CONTIG: 3326 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 18647 18946 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3326
+
+CONTIG: 3340 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 37832 38131 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3340
+
+CONTIG: 3352 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 22902 23201 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3352
+
+CONTIG: 3361 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 39857 40156 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3361
+
+CONTIG: 3369 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 46028 46327 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3369
+
+CONTIG: 3389 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7315 7614 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3389
+
+CONTIG: 3394 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 16257 16556 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3394
+
+CONTIG: 3395 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 39477 39776 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3395
+
+CONTIG: 3396 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 10212 10511 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3396
+
+CONTIG: 3430 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41626 41925 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3430
+
+CONTIG: 3447 (300bp)
+Best alignment score: 291.0 (LEN: 298, IDY: 97.65), Total number of alignments: 1
+		One align captures most of this contig: 31408 31705 | 3 300 | 298 298 | 97.65 | gi_9626243_ref_NC_001416.1_ 3447
+
+CONTIG: 3469 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 4217 4516 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3469
+
+CONTIG: 3473 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 7388 7687 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3473
+
+CONTIG: 3480 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 4024 4323 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 3480
+
+CONTIG: 3495 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3863 4162 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3495
+
+CONTIG: 3503 (300bp)
+Best alignment score: 293.0 (LEN: 298, IDY: 98.32), Total number of alignments: 1
+		One align captures most of this contig: 13178 13475 | 1 298 | 298 298 | 98.32 | gi_9626243_ref_NC_001416.1_ 3503
+
+CONTIG: 3519 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41338 41637 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3519
+
+CONTIG: 3546 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41681 41980 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3546
+
+CONTIG: 3562 (300bp)
+Best alignment score: 286.0 (LEN: 289, IDY: 98.96), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 286.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 29426 29714 | 1 289 | 289 289 | 98.96 | gi_9626243_ref_NC_001416.1_ 3562
+
+CONTIG: 3582 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48240 48539 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3582
+
+CONTIG: 3595 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48180 48479 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3595
+
+CONTIG: 3611 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 19679 19978 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 3611
+
+CONTIG: 3644 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35652 35951 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 3644
+
+CONTIG: 3653 (300bp)
+Best alignment score: 290.0 (LEN: 296, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 15810 16105 | 5 300 | 296 296 | 97.97 | gi_9626243_ref_NC_001416.1_ 3653
+
+CONTIG: 3654 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48204 48503 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3654
+
+CONTIG: 3656 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 3783 4082 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3656
+
+CONTIG: 3659 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19506 19805 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3659
+
+CONTIG: 3660 (300bp)
+Best alignment score: 296.0 (LEN: 299, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41643 41941 | 2 300 | 299 299 | 99.0 | gi_9626243_ref_NC_001416.1_ 3660
+
+CONTIG: 3672 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16209 16508 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3672
+
+CONTIG: 3688 (300bp)
+Best alignment score: 294.0 (LEN: 298, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 38234 38531 | 1 298 | 298 298 | 98.66 | gi_9626243_ref_NC_001416.1_ 3688
+
+CONTIG: 3689 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 15563 15862 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3689
+
+CONTIG: 3725 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 4058 4357 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3725
+
+CONTIG: 3756 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48176 48475 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3756
+
+CONTIG: 3762 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 15260 15559 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3762
+
+CONTIG: 3774 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 48149 48448 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3774
+
+CONTIG: 3809 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13151 13450 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3809
+
+CONTIG: 3820 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 34601 34900 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3820
+
+CONTIG: 3824 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 43818 44117 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 3824
+
+CONTIG: 3828 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41451 41750 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3828
+
+CONTIG: 3831 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 20013 20312 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3831
+
+CONTIG: 3832 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12831 13130 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3832
+
+CONTIG: 3858 (300bp)
+Best alignment score: 297.0 (LEN: 297, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 41476 41772 | 1 297 | 297 297 | 100.0 | gi_9626243_ref_NC_001416.1_ 3858
+
+CONTIG: 3884 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 9170 9469 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 3884
+
+CONTIG: 3895 (300bp)
+Best alignment score: 295.0 (LEN: 296, IDY: 99.66), Total number of alignments: 1
+		One align captures most of this contig: 7133 7428 | 5 300 | 296 296 | 99.66 | gi_9626243_ref_NC_001416.1_ 3895
+
+CONTIG: 3915 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 15316 15615 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 3915
+
+CONTIG: 3921 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 14637 14936 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 3921
+
+CONTIG: 3937 (300bp)
+Best alignment score: 292.0 (LEN: 298, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 34553 34850 | 3 300 | 298 298 | 97.99 | gi_9626243_ref_NC_001416.1_ 3937
+
+CONTIG: 3940 (300bp)
+Best alignment score: 298.0 (LEN: 299, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 13093 13391 | 1 299 | 299 299 | 99.67 | gi_9626243_ref_NC_001416.1_ 3940
+
+CONTIG: 3966 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 21898 22197 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3966
+
+CONTIG: 3975 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 3993 4292 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 3975
+
+CONTIG: 3977 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35854 36153 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 3977
+
+CONTIG: 3985 (300bp)
+Best alignment score: 290.0 (LEN: 296, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 36242 36537 | 1 296 | 296 296 | 97.97 | gi_9626243_ref_NC_001416.1_ 3985
+
+CONTIG: 3996 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 21933 22232 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 3996
+
+CONTIG: 4022 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 47261 47560 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 4022
+
+CONTIG: 4025 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 6169 6468 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4025
+
+CONTIG: 4030 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9796 10095 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4030
+
+CONTIG: 4033 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41489 41788 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4033
+
+CONTIG: 4043 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 4187 4486 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4043
+
+CONTIG: 4086 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35770 36069 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4086
+
+CONTIG: 4089 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 46067 46366 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4089
+
+CONTIG: 4093 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 43724 44023 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 4093
+
+CONTIG: 4110 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 46149 46448 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4110
+
+CONTIG: 4111 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 15301 15600 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4111
+
+CONTIG: 4118 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3766 4065 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4118
+
+CONTIG: 4119 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 31401 31700 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4119
+
+CONTIG: 4131 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 40781 41080 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4131
+
+CONTIG: 4145 (300bp)
+Best alignment score: 295.0 (LEN: 297, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7059 7355 | 4 300 | 297 297 | 99.33 | gi_9626243_ref_NC_001416.1_ 4145
+
+CONTIG: 4163 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 513 812 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 4163
+
+CONTIG: 4164 (300bp)
+Best alignment score: 289.0 (LEN: 296, IDY: 97.64), Total number of alignments: 1
+		One align captures most of this contig: 35135 35430 | 5 300 | 296 296 | 97.64 | gi_9626243_ref_NC_001416.1_ 4164
+
+CONTIG: 4182 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39534 39833 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4182
+
+CONTIG: 4199 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 45990 46289 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4199
+
+CONTIG: 4210 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 10785 11084 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4210
+
+CONTIG: 4234 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3749 4048 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4234
+
+CONTIG: 4242 (300bp)
+Best alignment score: 291.0 (LEN: 298, IDY: 97.65), Total number of alignments: 1
+		One align captures most of this contig: 9207 9504 | 3 300 | 298 298 | 97.65 | gi_9626243_ref_NC_001416.1_ 4242
+
+CONTIG: 4245 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 35899 36198 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4245
+
+CONTIG: 4262 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 9913 10212 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4262
+
+CONTIG: 4270 (300bp)
+Best alignment score: 293.0 (LEN: 294, IDY: 99.66), Total number of alignments: 1
+		One align captures most of this contig: 35569 35862 | 7 300 | 294 294 | 99.66 | gi_9626243_ref_NC_001416.1_ 4270
+
+CONTIG: 4275 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16327 16626 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4275
+
+CONTIG: 4276 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 6973 7272 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4276
+
+CONTIG: 4279 (300bp)
+Best alignment score: 300.0 (LEN: 300, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 41410 41709 | 1 300 | 300 300 | 100.0 | gi_9626243_ref_NC_001416.1_ 4279
+
+CONTIG: 4292 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 45720 46019 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4292
+
+CONTIG: 4323 (300bp)
+Best alignment score: 290.0 (LEN: 295, IDY: 98.31), Total number of alignments: 1
+		One align captures most of this contig: 9864 10158 | 6 300 | 295 295 | 98.31 | gi_9626243_ref_NC_001416.1_ 4323
+
+CONTIG: 4324 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 14130 14429 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 4324
+
+CONTIG: 4325 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 41992 42291 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4325
+
+CONTIG: 4328 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 25664 25963 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4328
+
+CONTIG: 4342 (300bp)
+Best alignment score: 290.0 (LEN: 294, IDY: 98.64), Total number of alignments: 1
+		One align captures most of this contig: 6395 6688 | 7 300 | 294 294 | 98.64 | gi_9626243_ref_NC_001416.1_ 4342
+
+CONTIG: 4354 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 26007 26306 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4354
+
+CONTIG: 4355 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 7140 7439 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 4355
+
+CONTIG: 4376 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3882 4181 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4376
+
+CONTIG: 4377 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 41303 41602 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4377
+
+CONTIG: 4397 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13190 13489 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4397
+
+CONTIG: 4408 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 34768 35067 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4408
+
+CONTIG: 4413 (300bp)
+Best alignment score: 293.0 (LEN: 299, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 4157 4455 | 1 299 | 299 299 | 97.99 | gi_9626243_ref_NC_001416.1_ 4413
+
+CONTIG: 4431 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 13282 13581 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4431
+
+CONTIG: 4435 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3805 4104 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4435
+
+CONTIG: 4446 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 27749 28048 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 4446
+
+CONTIG: 4447 (300bp)
+Best alignment score: 296.0 (LEN: 299, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 16206 16504 | 1 299 | 299 299 | 99.0 | gi_9626243_ref_NC_001416.1_ 4447
+
+CONTIG: 4448 (300bp)
+Best alignment score: 300.0 (LEN: 300, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 46051 46350 | 1 300 | 300 300 | 100.0 | gi_9626243_ref_NC_001416.1_ 4448
+
+CONTIG: 4462 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 9040 9339 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4462
+
+CONTIG: 4495 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 27238 27537 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4495
+
+CONTIG: 4516 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 34156 34455 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4516
+
+CONTIG: 4523 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 14646 14945 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4523
+
+CONTIG: 4545 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 2 301 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4545
+
+CONTIG: 4553 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 5447 5746 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4553
+
+CONTIG: 4574 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 8596 8895 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4574
+
+CONTIG: 4575 (300bp)
+Best alignment score: 285.0 (LEN: 288, IDY: 98.96), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 285.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 3111 3398 | 1 288 | 288 288 | 98.96 | gi_9626243_ref_NC_001416.1_ 4575
+
+CONTIG: 4578 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 46104 46403 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 4578
+
+CONTIG: 4599 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 23909 24208 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4599
+
+CONTIG: 4600 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9785 10084 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4600
+
+CONTIG: 4623 (300bp)
+Best alignment score: 289.0 (LEN: 297, IDY: 97.31), Total number of alignments: 1
+		One align captures most of this contig: 46198 46494 | 1 297 | 297 297 | 97.31 | gi_9626243_ref_NC_001416.1_ 4623
+
+CONTIG: 4678 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41698 41997 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4678
+
+CONTIG: 4692 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 39568 39867 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4692
+
+CONTIG: 4711 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 47660 47959 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4711
+
+CONTIG: 4712 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 20691 20990 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4712
+
+CONTIG: 4744 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7082 7381 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4744
+
+CONTIG: 4745 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7223 7522 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4745
+
+CONTIG: 4762 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 9634 9933 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4762
+
+CONTIG: 4769 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 48207 48506 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4769
+
+CONTIG: 4772 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35850 36149 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4772
+
+CONTIG: 4786 (300bp)
+Best alignment score: 290.0 (LEN: 300, IDY: 96.67), Total number of alignments: 1
+		One align captures most of this contig: 30974 31273 | 1 300 | 300 300 | 96.67 | gi_9626243_ref_NC_001416.1_ 4786
+
+CONTIG: 4805 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 46124 46423 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4805
+
+CONTIG: 4810 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7305 7604 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4810
+
+CONTIG: 4840 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 12884 13183 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 4840
+
+CONTIG: 4846 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19155 19454 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4846
+
+CONTIG: 4852 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 4123 4422 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4852
+
+CONTIG: 4858 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 6800 7099 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4858
+
+CONTIG: 4861 (300bp)
+Best alignment score: 283.0 (LEN: 289, IDY: 97.92), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 283.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 31956 32244 | 6 294 | 289 289 | 97.92 | gi_9626243_ref_NC_001416.1_ 4861
+
+CONTIG: 4869 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 46036 46335 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4869
+
+CONTIG: 4871 (300bp)
+Best alignment score: 291.0 (LEN: 297, IDY: 97.98), Total number of alignments: 1
+		One align captures most of this contig: 7259 7555 | 1 297 | 297 297 | 97.98 | gi_9626243_ref_NC_001416.1_ 4871
+
+CONTIG: 4874 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 7163 7462 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 4874
+
+CONTIG: 4879 (300bp)
+Best alignment score: 292.0 (LEN: 296, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 5387 5682 | 1 296 | 296 296 | 98.65 | gi_9626243_ref_NC_001416.1_ 4879
+
+CONTIG: 4881 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41581 41880 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 4881
+
+CONTIG: 4882 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 6838 7137 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4882
+
+CONTIG: 4902 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 12868 13167 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4902
+
+CONTIG: 4913 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 32587 32886 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4913
+
+CONTIG: 4930 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 4086 4385 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 4930
+
+CONTIG: 4931 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7157 7456 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 4931
+
+CONTIG: 4935 (300bp)
+Best alignment score: 290.0 (LEN: 294, IDY: 98.64), Total number of alignments: 1
+		One align captures most of this contig: 7072 7365 | 1 294 | 294 294 | 98.64 | gi_9626243_ref_NC_001416.1_ 4935
+
+CONTIG: 4951 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 11850 12149 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 4951
+
+CONTIG: 4960 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 9944 10243 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 4960
+
+CONTIG: 4987 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 29401 29700 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4987
+
+CONTIG: 4998 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19968 20267 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 4998
+
+CONTIG: 5003 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7041 7340 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5003
+
+CONTIG: 5006 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 10567 10866 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5006
+
+CONTIG: 5009 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 11965 12264 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5009
+
+CONTIG: 5010 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48211 48510 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5010
+
+CONTIG: 5013 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 39486 39785 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5013
+
+CONTIG: 5032 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7345 7644 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5032
+
+CONTIG: 5039 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7273 7572 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5039
+
+CONTIG: 5040 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 7224 7523 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 5040
+
+CONTIG: 5054 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 11466 11765 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5054
+
+CONTIG: 5076 (300bp)
+Best alignment score: 293.0 (LEN: 299, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 46186 46484 | 2 300 | 299 299 | 97.99 | gi_9626243_ref_NC_001416.1_ 5076
+
+CONTIG: 5081 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 10010 10309 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5081
+
+CONTIG: 5107 (300bp)
+Best alignment score: 293.0 (LEN: 295, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 16349 16643 | 1 295 | 295 295 | 99.32 | gi_9626243_ref_NC_001416.1_ 5107
+
+CONTIG: 5114 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 9679 9978 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5114
+
+CONTIG: 5120 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 9926 10225 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5120
+
+CONTIG: 5123 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 29426 29725 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5123
+
+CONTIG: 5126 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 23023 23322 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5126
+
+CONTIG: 5137 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 41523 41822 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5137
+
+CONTIG: 5148 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 13081 13380 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5148
+
+CONTIG: 5157 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 38811 39110 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5157
+
+CONTIG: 5166 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 42291 42590 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5166
+
+CONTIG: 5177 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7344 7643 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5177
+
+CONTIG: 5180 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41245 41544 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5180
+
+CONTIG: 5182 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35725 36024 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5182
+
+CONTIG: 5186 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 4036 4335 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 5186
+
+CONTIG: 5188 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 23628 23927 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5188
+
+CONTIG: 5213 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 21981 22280 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5213
+
+CONTIG: 5218 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12829 13128 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5218
+
+CONTIG: 5227 (300bp)
+Best alignment score: 286.0 (LEN: 288, IDY: 99.31), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 286.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 12978 13265 | 13 300 | 288 288 | 99.31 | gi_9626243_ref_NC_001416.1_ 5227
+
+CONTIG: 5256 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 13814 14113 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5256
+
+CONTIG: 5259 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 43545 43844 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5259
+
+CONTIG: 5263 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 41596 41895 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5263
+
+CONTIG: 5264 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 9569 9868 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5264
+
+CONTIG: 5280 (300bp)
+Best alignment score: 286.0 (LEN: 294, IDY: 97.28), Total number of alignments: 1
+		One align captures most of this contig: 725 1018 | 1 294 | 294 294 | 97.28 | gi_9626243_ref_NC_001416.1_ 5280
+
+CONTIG: 5287 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 21845 22144 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5287
+
+CONTIG: 5293 (300bp)
+Best alignment score: 287.0 (LEN: 294, IDY: 97.62), Total number of alignments: 1
+		One align captures most of this contig: 187 480 | 7 300 | 294 294 | 97.62 | gi_9626243_ref_NC_001416.1_ 5293
+
+CONTIG: 5298 (300bp)
+Best alignment score: 285.0 (LEN: 290, IDY: 98.28), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 285.0, number of alignments: 1, unaligned bases: 10
+		Alignment: 35759 36048 | 11 300 | 290 290 | 98.28 | gi_9626243_ref_NC_001416.1_ 5298
+
+CONTIG: 5303 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16398 16697 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5303
+
+CONTIG: 5313 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 4134 4433 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5313
+
+CONTIG: 5314 (300bp)
+Best alignment score: 292.0 (LEN: 299, IDY: 97.66), Total number of alignments: 1
+		One align captures most of this contig: 4044 4342 | 1 299 | 299 299 | 97.66 | gi_9626243_ref_NC_001416.1_ 5314
+
+CONTIG: 5315 (300bp)
+Best alignment score: 293.0 (LEN: 297, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 35891 36187 | 4 300 | 297 297 | 98.65 | gi_9626243_ref_NC_001416.1_ 5315
+
+CONTIG: 5322 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7280 7579 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5322
+
+CONTIG: 5348 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 16195 16494 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5348
+
+CONTIG: 5349 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 33116 33415 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5349
+
+CONTIG: 5354 (300bp)
+Best alignment score: 287.0 (LEN: 295, IDY: 97.29), Total number of alignments: 1
+		One align captures most of this contig: 36405 36699 | 6 300 | 295 295 | 97.29 | gi_9626243_ref_NC_001416.1_ 5354
+
+CONTIG: 5369 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 15 314 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5369
+
+CONTIG: 5371 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 16331 16630 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5371
+
+CONTIG: 5394 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 33939 34238 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5394
+
+CONTIG: 5413 (300bp)
+Best alignment score: 292.0 (LEN: 299, IDY: 97.66), Total number of alignments: 1
+		One align captures most of this contig: 30569 30867 | 2 300 | 299 299 | 97.66 | gi_9626243_ref_NC_001416.1_ 5413
+
+CONTIG: 5427 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 39964 40263 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5427
+
+CONTIG: 5436 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 12701 13000 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5436
+
+CONTIG: 5438 (300bp)
+Best alignment score: 289.0 (LEN: 294, IDY: 98.30), Total number of alignments: 1
+		One align captures most of this contig: 7283 7576 | 7 300 | 294 294 | 98.3 | gi_9626243_ref_NC_001416.1_ 5438
+
+CONTIG: 5457 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 13283 13582 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5457
+
+CONTIG: 5466 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 1750 2049 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5466
+
+CONTIG: 5467 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41549 41848 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5467
+
+CONTIG: 5478 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 24900 25199 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5478
+
+CONTIG: 5480 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 35686 35985 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5480
+
+CONTIG: 5488 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 13136 13435 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5488
+
+CONTIG: 5491 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7292 7591 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5491
+
+CONTIG: 5504 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 41215 41514 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5504
+
+CONTIG: 5538 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16179 16478 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5538
+
+CONTIG: 5540 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 46218 46517 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5540
+
+CONTIG: 5548 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 4857 5156 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5548
+
+CONTIG: 5557 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 37956 38255 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5557
+
+CONTIG: 5587 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 2821 3120 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5587
+
+CONTIG: 5596 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 14806 15105 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5596
+
+CONTIG: 5599 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 3666 3965 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5599
+
+CONTIG: 5602 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 12978 13277 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5602
+
+CONTIG: 5606 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7064 7363 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5606
+
+CONTIG: 5611 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 18185 18484 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5611
+
+CONTIG: 5617 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 9764 10063 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5617
+
+CONTIG: 5622 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 1697 1996 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5622
+
+CONTIG: 5633 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 15741 16040 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5633
+
+CONTIG: 5639 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 10038 10337 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5639
+
+CONTIG: 5647 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 3922 4221 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 5647
+
+CONTIG: 5660 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 37433 37732 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5660
+
+CONTIG: 5669 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 42073 42372 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5669
+
+CONTIG: 5674 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41362 41661 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5674
+
+CONTIG: 5675 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 17158 17457 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5675
+
+CONTIG: 5708 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 4021 4320 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5708
+
+CONTIG: 5709 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 7502 7801 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5709
+
+CONTIG: 5718 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 13033 13332 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5718
+
+CONTIG: 5735 (300bp)
+Best alignment score: 291.0 (LEN: 295, IDY: 98.64), Total number of alignments: 1
+		One align captures most of this contig: 9832 10126 | 1 295 | 295 295 | 98.64 | gi_9626243_ref_NC_001416.1_ 5735
+
+CONTIG: 5756 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 45656 45955 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5756
+
+CONTIG: 5761 (300bp)
+Best alignment score: 295.0 (LEN: 299, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 10198 10496 | 1 299 | 299 299 | 98.66 | gi_9626243_ref_NC_001416.1_ 5761
+
+CONTIG: 5774 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 48254 48553 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5774
+
+CONTIG: 5788 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 14762 15061 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5788
+
+CONTIG: 5790 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 16146 16445 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5790
+
+CONTIG: 5799 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7302 7601 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 5799
+
+CONTIG: 5804 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 12741 13040 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5804
+
+CONTIG: 5861 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 19443 19742 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 5861
+
+CONTIG: 5864 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35537 35836 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5864
+
+CONTIG: 5870 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 40030 40329 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5870
+
+CONTIG: 5882 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 38244 38543 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5882
+
+CONTIG: 5913 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48222 48521 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5913
+
+CONTIG: 5921 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 9782 10081 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5921
+
+CONTIG: 5926 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 10454 10753 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 5926
+
+CONTIG: 5935 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 12865 13164 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 5935
+
+CONTIG: 5941 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19479 19778 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5941
+
+CONTIG: 5965 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19644 19943 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5965
+
+CONTIG: 5968 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 22415 22714 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 5968
+
+CONTIG: 5970 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48197 48496 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 5970
+
+CONTIG: 5975 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 32557 32856 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 5975
+
+CONTIG: 5985 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 4543 4842 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 5985
+
+CONTIG: 5994 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3998 4297 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 5994
+
+CONTIG: 6003 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 14780 15079 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6003
+
+CONTIG: 6005 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 2808 3107 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6005
+
+CONTIG: 6007 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 9826 10125 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6007
+
+CONTIG: 6029 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 37246 37545 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6029
+
+CONTIG: 6036 (300bp)
+Best alignment score: 300.0 (LEN: 300, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 7230 7529 | 1 300 | 300 300 | 100.0 | gi_9626243_ref_NC_001416.1_ 6036
+
+CONTIG: 6072 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 11780 12079 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6072
+
+CONTIG: 6080 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 44378 44677 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 6080
+
+CONTIG: 6088 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 43537 43836 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6088
+
+CONTIG: 6110 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 32542 32841 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6110
+
+CONTIG: 6111 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35612 35911 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6111
+
+CONTIG: 6137 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 35773 36072 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6137
+
+CONTIG: 6142 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 45645 45944 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6142
+
+CONTIG: 6145 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 19495 19794 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6145
+
+CONTIG: 6156 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13016 13315 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6156
+
+CONTIG: 6160 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 16742 17041 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6160
+
+CONTIG: 6161 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 3851 4150 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6161
+
+CONTIG: 6166 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 16277 16576 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6166
+
+CONTIG: 6168 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 31452 31751 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6168
+
+CONTIG: 6185 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13159 13458 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6185
+
+CONTIG: 6206 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35717 36016 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6206
+
+CONTIG: 6224 (300bp)
+Best alignment score: 298.0 (LEN: 299, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35856 36154 | 2 300 | 299 299 | 99.67 | gi_9626243_ref_NC_001416.1_ 6224
+
+CONTIG: 6227 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 48147 48446 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6227
+
+CONTIG: 6243 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 24675 24974 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6243
+
+CONTIG: 6260 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26992 27291 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6260
+
+CONTIG: 6276 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 14401 14700 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6276
+
+CONTIG: 6279 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 35877 36176 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6279
+
+CONTIG: 6291 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 5832 6131 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6291
+
+CONTIG: 6311 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13194 13493 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6311
+
+CONTIG: 6315 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 6995 7294 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6315
+
+CONTIG: 6333 (300bp)
+Best alignment score: 288.0 (LEN: 295, IDY: 97.63), Total number of alignments: 1
+		One align captures most of this contig: 47592 47886 | 6 300 | 295 295 | 97.63 | gi_9626243_ref_NC_001416.1_ 6333
+
+CONTIG: 6340 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 9883 10182 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6340
+
+CONTIG: 6342 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 39383 39682 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6342
+
+CONTIG: 6345 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 31975 32274 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6345
+
+CONTIG: 6347 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 6537 6836 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6347
+
+CONTIG: 6359 (300bp)
+Best alignment score: 291.0 (LEN: 297, IDY: 97.98), Total number of alignments: 1
+		One align captures most of this contig: 30823 31119 | 1 297 | 297 297 | 97.98 | gi_9626243_ref_NC_001416.1_ 6359
+
+CONTIG: 6362 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 18166 18465 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6362
+
+CONTIG: 6370 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19588 19887 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6370
+
+CONTIG: 6379 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 41501 41800 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6379
+
+CONTIG: 6380 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 41527 41826 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6380
+
+CONTIG: 6386 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 12757 13056 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6386
+
+CONTIG: 6389 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41396 41695 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6389
+
+CONTIG: 6399 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26733 27032 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6399
+
+CONTIG: 6400 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 41257 41556 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6400
+
+CONTIG: 6404 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 31849 32148 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6404
+
+CONTIG: 6433 (300bp)
+Best alignment score: 293.0 (LEN: 297, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 41633 41929 | 4 300 | 297 297 | 98.65 | gi_9626243_ref_NC_001416.1_ 6433
+
+CONTIG: 6434 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 7125 7424 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6434
+
+CONTIG: 6436 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 41539 41838 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 6436
+
+CONTIG: 6445 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3933 4232 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6445
+
+CONTIG: 6467 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7093 7392 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6467
+
+CONTIG: 6479 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13041 13340 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6479
+
+CONTIG: 6482 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 27224 27523 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6482
+
+CONTIG: 6488 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 31268 31567 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6488
+
+CONTIG: 6490 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7271 7570 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6490
+
+CONTIG: 6497 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 35752 36051 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 6497
+
+CONTIG: 6515 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19478 19777 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6515
+
+CONTIG: 6544 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 21938 22237 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6544
+
+CONTIG: 6549 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 14366 14665 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6549
+
+CONTIG: 6557 (300bp)
+Best alignment score: 290.0 (LEN: 296, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 3359 3654 | 5 300 | 296 296 | 97.97 | gi_9626243_ref_NC_001416.1_ 6557
+
+CONTIG: 6568 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 40675 40974 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6568
+
+CONTIG: 6576 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 13179 13478 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6576
+
+CONTIG: 6596 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 40172 40471 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6596
+
+CONTIG: 6608 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 21868 22167 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6608
+
+CONTIG: 6611 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 36019 36318 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6611
+
+CONTIG: 6613 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41565 41864 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6613
+
+CONTIG: 6615 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 31029 31328 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 6615
+
+CONTIG: 6640 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3885 4184 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6640
+
+CONTIG: 6644 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35711 36010 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6644
+
+CONTIG: 6647 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 48172 48471 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6647
+
+CONTIG: 6656 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 47143 47442 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6656
+
+CONTIG: 6658 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 39600 39899 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6658
+
+CONTIG: 6667 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41 340 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6667
+
+CONTIG: 6668 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 24600 24899 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6668
+
+CONTIG: 6676 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 36117 36416 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6676
+
+CONTIG: 6677 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 21074 21373 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6677
+
+CONTIG: 6692 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 5424 5723 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6692
+
+CONTIG: 6696 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3099 3398 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6696
+
+CONTIG: 6712 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 13265 13564 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6712
+
+CONTIG: 6718 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 16857 17156 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6718
+
+CONTIG: 6730 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 13131 13430 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6730
+
+CONTIG: 6735 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 3879 4178 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 6735
+
+CONTIG: 6748 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48187 48486 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 6748
+
+CONTIG: 6751 (300bp)
+Best alignment score: 290.0 (LEN: 297, IDY: 97.64), Total number of alignments: 1
+		One align captures most of this contig: 32871 33167 | 1 297 | 297 297 | 97.64 | gi_9626243_ref_NC_001416.1_ 6751
+
+CONTIG: 6763 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 12839 13138 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 6763
+
+CONTIG: 6778 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 27026 27325 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6778
+
+CONTIG: 6780 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 22355 22654 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6780
+
+CONTIG: 6797 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 7078 7377 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6797
+
+CONTIG: 6800 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 12918 13217 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6800
+
+CONTIG: 6810 (300bp)
+Best alignment score: 289.0 (LEN: 294, IDY: 98.30), Total number of alignments: 1
+		One align captures most of this contig: 16256 16549 | 1 294 | 294 294 | 98.3 | gi_9626243_ref_NC_001416.1_ 6810
+
+CONTIG: 6813 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 9736 10035 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6813
+
+CONTIG: 6816 (300bp)
+Best alignment score: 297.0 (LEN: 299, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 14586 14884 | 1 299 | 299 299 | 99.33 | gi_9626243_ref_NC_001416.1_ 6816
+
+CONTIG: 6818 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41423 41722 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6818
+
+CONTIG: 6824 (300bp)
+Best alignment score: 300.0 (LEN: 300, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 41387 41686 | 1 300 | 300 300 | 100.0 | gi_9626243_ref_NC_001416.1_ 6824
+
+CONTIG: 6828 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 32959 33258 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6828
+
+CONTIG: 6830 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 45 344 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 6830
+
+CONTIG: 6837 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 6722 7021 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 6837
+
+CONTIG: 6859 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48246 48545 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6859
+
+CONTIG: 6874 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 39589 39888 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 6874
+
+CONTIG: 6885 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 15496 15795 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6885
+
+CONTIG: 6900 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 11410 11709 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6900
+
+CONTIG: 6951 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 35805 36104 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6951
+
+CONTIG: 6967 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 33002 33301 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 6967
+
+CONTIG: 6971 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 13029 13328 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6971
+
+CONTIG: 6981 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 22912 23211 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 6981
+
+CONTIG: 7006 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 15541 15840 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7006
+
+CONTIG: 7011 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 4532 4831 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7011
+
+CONTIG: 7015 (300bp)
+Best alignment score: 293.0 (LEN: 299, IDY: 97.99), Total number of alignments: 1
+		One align captures most of this contig: 12341 12639 | 1 299 | 299 299 | 97.99 | gi_9626243_ref_NC_001416.1_ 7015
+
+CONTIG: 7019 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19401 19700 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7019
+
+CONTIG: 7040 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 46158 46457 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7040
+
+CONTIG: 7041 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 19371 19670 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7041
+
+CONTIG: 7042 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 106 405 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7042
+
+CONTIG: 7046 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35611 35910 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7046
+
+CONTIG: 7074 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 13070 13369 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 7074
+
+CONTIG: 7079 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 19688 19987 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7079
+
+CONTIG: 7101 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 30504 30803 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7101
+
+CONTIG: 7103 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 2856 3155 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7103
+
+CONTIG: 7109 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7310 7609 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7109
+
+CONTIG: 7119 (300bp)
+Best alignment score: 293.0 (LEN: 298, IDY: 98.32), Total number of alignments: 1
+		One align captures most of this contig: 3267 3564 | 1 298 | 298 298 | 98.32 | gi_9626243_ref_NC_001416.1_ 7119
+
+CONTIG: 7128 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 38144 38443 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7128
+
+CONTIG: 7139 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 30877 31176 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7139
+
+CONTIG: 7162 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 13057 13356 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7162
+
+CONTIG: 7170 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 41658 41957 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7170
+
+CONTIG: 7175 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 46345 46644 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7175
+
+CONTIG: 7179 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 12832 13131 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7179
+
+CONTIG: 7181 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 7190 7489 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7181
+
+CONTIG: 7195 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 29377 29676 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7195
+
+CONTIG: 7202 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 9862 10161 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7202
+
+CONTIG: 7203 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 7129 7428 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7203
+
+CONTIG: 7210 (300bp)
+Best alignment score: 289.0 (LEN: 296, IDY: 97.64), Total number of alignments: 1
+		One align captures most of this contig: 5923 6218 | 1 296 | 296 296 | 97.64 | gi_9626243_ref_NC_001416.1_ 7210
+
+CONTIG: 7212 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 3069 3368 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7212
+
+CONTIG: 7217 (300bp)
+Best alignment score: 300.0 (LEN: 300, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 12982 13281 | 1 300 | 300 300 | 100.0 | gi_9626243_ref_NC_001416.1_ 7217
+
+CONTIG: 7228 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 27232 27531 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7228
+
+CONTIG: 7237 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 35700 35999 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7237
+
+CONTIG: 7248 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 14559 14858 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7248
+
+CONTIG: 7256 (300bp)
+Best alignment score: 285.0 (LEN: 291, IDY: 97.94), Total number of alignments: 1
+		One align captures most of this contig: 1730 2020 | 7 297 | 291 291 | 97.94 | gi_9626243_ref_NC_001416.1_ 7256
+
+CONTIG: 7272 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 46161 46460 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7272
+
+CONTIG: 7303 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 14150 14449 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7303
+
+CONTIG: 7316 (300bp)
+Best alignment score: 290.0 (LEN: 299, IDY: 96.99), Total number of alignments: 1
+		One align captures most of this contig: 39846 40144 | 1 299 | 299 299 | 96.99 | gi_9626243_ref_NC_001416.1_ 7316
+
+CONTIG: 7340 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 10261 10560 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7340
+
+CONTIG: 7368 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 14744 15043 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7368
+
+CONTIG: 7370 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 27069 27368 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7370
+
+CONTIG: 7387 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 21917 22216 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7387
+
+CONTIG: 7389 (300bp)
+Best alignment score: 294.0 (LEN: 298, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 3993 4290 | 3 300 | 298 298 | 98.66 | gi_9626243_ref_NC_001416.1_ 7389
+
+CONTIG: 7404 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 10414 10713 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7404
+
+CONTIG: 7436 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 12006 12305 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7436
+
+CONTIG: 7442 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 16973 17272 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7442
+
+CONTIG: 7455 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 13477 13776 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7455
+
+CONTIG: 7478 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 12811 13110 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7478
+
+CONTIG: 7485 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 39522 39821 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7485
+
+CONTIG: 7497 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19217 19516 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7497
+
+CONTIG: 7517 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 19223 19522 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7517
+
+CONTIG: 7520 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 46207 46506 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7520
+
+CONTIG: 7526 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 48240 48539 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7526
+
+CONTIG: 7530 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 46112 46411 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7530
+
+CONTIG: 7535 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 3660 3959 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7535
+
+CONTIG: 7563 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 18131 18430 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7563
+
+CONTIG: 7569 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 13166 13465 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7569
+
+CONTIG: 7581 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 7382 7681 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7581
+
+CONTIG: 7586 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 48202 48501 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7586
+
+CONTIG: 7598 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 12829 13128 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7598
+
+CONTIG: 7626 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 23493 23792 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7626
+
+CONTIG: 7634 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 13171 13470 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7634
+
+CONTIG: 7643 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 44502 44801 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7643
+
+CONTIG: 7648 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 4508 4807 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 7648
+
+CONTIG: 7649 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 35000 35299 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7649
+
+CONTIG: 7675 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 41583 41882 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 7675
+
+CONTIG: 7685 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 4118 4417 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7685
+
+CONTIG: 7692 (300bp)
+Best alignment score: 290.0 (LEN: 294, IDY: 98.64), Total number of alignments: 1
+		One align captures most of this contig: 4021 4314 | 7 300 | 294 294 | 98.64 | gi_9626243_ref_NC_001416.1_ 7692
+
+CONTIG: 7699 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 38981 39280 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7699
+
+CONTIG: 7708 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 18275 18574 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7708
+
+CONTIG: 7713 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 19854 20153 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7713
+
+CONTIG: 7716 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 19639 19938 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7716
+
+CONTIG: 7723 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 32549 32848 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7723
+
+CONTIG: 7744 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 46062 46361 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7744
+
+CONTIG: 7760 (300bp)
+Best alignment score: 290.0 (LEN: 298, IDY: 97.32), Total number of alignments: 1
+		One align captures most of this contig: 41199 41496 | 1 298 | 298 298 | 97.32 | gi_9626243_ref_NC_001416.1_ 7760
+
+CONTIG: 7764 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 85 384 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7764
+
+CONTIG: 7768 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 26285 26584 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7768
+
+CONTIG: 7791 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 897 1196 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7791
+
+CONTIG: 7797 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 48261 48560 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7797
+
+CONTIG: 7821 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 6778 7077 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7821
+
+CONTIG: 7828 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 6819 7118 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7828
+
+CONTIG: 7837 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 14840 15139 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7837
+
+CONTIG: 7841 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 24723 25022 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7841
+
+CONTIG: 7852 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 40518 40817 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7852
+
+CONTIG: 7866 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 21680 21979 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7866
+
+CONTIG: 7867 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 3135 3434 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7867
+
+CONTIG: 7869 (300bp)
+Best alignment score: 299.0 (LEN: 300, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 16343 16642 | 1 300 | 300 300 | 99.67 | gi_9626243_ref_NC_001416.1_ 7869
+
+CONTIG: 7880 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 3965 4264 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7880
+
+CONTIG: 7888 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 1185 1484 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7888
+
+CONTIG: 7904 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 2964 3263 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7904
+
+CONTIG: 7920 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 4082 4381 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7920
+
+CONTIG: 7926 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 7153 7452 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 7926
+
+CONTIG: 7932 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 9101 9400 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7932
+
+CONTIG: 7942 (300bp)
+Best alignment score: 297.0 (LEN: 300, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 41478 41777 | 1 300 | 300 300 | 99.0 | gi_9626243_ref_NC_001416.1_ 7942
+
+CONTIG: 7947 (300bp)
+Best alignment score: 293.0 (LEN: 300, IDY: 97.67), Total number of alignments: 1
+		One align captures most of this contig: 1101 1400 | 1 300 | 300 300 | 97.67 | gi_9626243_ref_NC_001416.1_ 7947
+
+CONTIG: 7955 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 16703 17002 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 7955
+
+CONTIG: 7962 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 19705 20004 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7962
+
+CONTIG: 7970 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 29373 29672 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 7970
+
+CONTIG: 7976 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 42304 42603 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 7976
+
+CONTIG: 7977 (300bp)
+Best alignment score: 293.0 (LEN: 296, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 35686 35981 | 5 300 | 296 296 | 98.99 | gi_9626243_ref_NC_001416.1_ 7977
+
+CONTIG: 7998 (300bp)
+Best alignment score: 296.0 (LEN: 300, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 19615 19914 | 1 300 | 300 300 | 98.67 | gi_9626243_ref_NC_001416.1_ 7998
+
+CONTIG: 8011 (300bp)
+Best alignment score: 291.0 (LEN: 300, IDY: 97.00), Total number of alignments: 1
+		One align captures most of this contig: 19484 19783 | 1 300 | 300 300 | 97.0 | gi_9626243_ref_NC_001416.1_ 8011
+
+CONTIG: 8021 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 44444 44743 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 8021
+
+CONTIG: 8041 (300bp)
+Best alignment score: 295.0 (LEN: 300, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 5378 5677 | 1 300 | 300 300 | 98.33 | gi_9626243_ref_NC_001416.1_ 8041
+
+CONTIG: 8051 (300bp)
+Best alignment score: 292.0 (LEN: 300, IDY: 97.33), Total number of alignments: 1
+		One align captures most of this contig: 30118 30417 | 1 300 | 300 300 | 97.33 | gi_9626243_ref_NC_001416.1_ 8051
+
+CONTIG: 8087 (300bp)
+Best alignment score: 298.0 (LEN: 300, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 35604 35903 | 1 300 | 300 300 | 99.33 | gi_9626243_ref_NC_001416.1_ 8087
+
+CONTIG: 8091 (300bp)
+Best alignment score: 294.0 (LEN: 300, IDY: 98.00), Total number of alignments: 1
+		One align captures most of this contig: 19016 19315 | 1 300 | 300 300 | 98.0 | gi_9626243_ref_NC_001416.1_ 8091
+
+Analyzing coverage...
+Writing SNPs into /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/minimap_output/reads_sequencage1_in.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/minimap_output/reads_sequencage1_in.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 40899
+
+	SNPs: 3574
+	Insertions: 0
+	Deletions: 0
+

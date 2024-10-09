@@ -1,0 +1,2586 @@
+Aligning contigs to reference...
+	Using existing alignments...
+Parsing coords...
+Loading reference...
+	Loaded [gi_9626243_ref_NC_001416.1_]
+	Total Regions: 1
+	Total Region Length: 48576
+Analyzing contigs...
+CONTIG: Contig_1 (45261bp)
+Best alignment score: 429.0 (LEN: 429, IDY: 100.00), Total number of alignments: 192
+			Too much alignments (192), will use speed up heuristics
+			Found 0 solid alignments:
+			Skipping alignments located inside solid regions since they are redundant:
+		Nothing was skipped
+			Looking for the best set of alignments (out of 192 total alignments)
+		Ambiguity for this contig is not checked for speed up (too much alignments and --ambiguity-usage is "one")
+			The best set is below. Score: 19729.8, number of alignments: 192, unaligned bases: 24107
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 21154 out of 45261 non-N bases (46.74%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 45261 (number of Ns: 0) and total length of all aligns is 21154
+		Alignment: 3472 3559 | 382 469 | 88 88 | 98.86 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 3560 3684 | 510 634 | 125 125 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 3828 3934 | 898 1004 | 107 107 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 3935 4039 | 1025 1129 | 105 105 | 99.05 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4040 4107 | 1150 1217 | 68 68 | 98.53 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4154 4303 | 1304 1453 | 150 150 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4335 4491 | 1580 1736 | 157 157 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4492 4566 | 1757 1831 | 75 75 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4660 4838 | 2025 2203 | 179 179 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4839 4960 | 2224 2345 | 122 122 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 4961 5108 | 2366 2513 | 148 148 | 99.32 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 5109 5174 | 2554 2619 | 66 66 | 98.48 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 5212 5419 | 2717 2924 | 208 208 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 5420 5648 | 2945 3173 | 229 229 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 5649 5998 | 3214 3563 | 350 350 | 99.71 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6044 6114 | 3669 3739 | 71 71 | 98.59 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6365 6430 | 4170 4235 | 66 66 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6431 6575 | 4256 4400 | 145 145 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6619 6689 | 4484 4554 | 71 71 | 98.59 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6690 6829 | 4595 4734 | 140 140 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 6830 7105 | 4755 5030 | 276 276 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 7159 7227 | 5124 5192 | 69 69 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 7341 7513 | 5386 5558 | 173 173 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 7514 7710 | 5599 5795 | 197 197 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 7737 7916 | 5910 6089 | 180 180 | 99.44 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 7917 8005 | 6130 6218 | 89 89 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8006 8096 | 6239 6329 | 91 91 | 98.9 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8141 8313 | 6414 6586 | 173 173 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8343 8409 | 6656 6722 | 67 67 | 98.51 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8410 8505 | 6743 6838 | 96 96 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8542 8655 | 6974 7087 | 114 114 | 99.12 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8793 8858 | 7385 7450 | 66 66 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 8917 9080 | 7603 7766 | 164 164 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9081 9172 | 7787 7878 | 92 92 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9173 9261 | 7919 8007 | 89 89 | 98.88 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9370 9509 | 8176 8315 | 140 140 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9660 9814 | 8546 8700 | 155 155 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9864 9933 | 8790 8859 | 70 70 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 9934 10046 | 8880 8992 | 113 113 | 99.12 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10122 10189 | 9168 9235 | 68 68 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10190 10303 | 9256 9369 | 114 114 | 99.12 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10347 10484 | 9473 9610 | 138 138 | 99.28 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10653 10733 | 9966 10046 | 81 81 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10734 10820 | 10067 10153 | 87 87 | 98.85 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 10821 10957 | 10214 10350 | 137 137 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11009 11099 | 10442 10532 | 91 91 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11100 11203 | 10553 10656 | 104 104 | 98.08 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11204 11272 | 10717 10785 | 69 69 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11380 11464 | 10973 11057 | 85 85 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11465 11543 | 11078 11156 | 79 79 | 97.47 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11578 11677 | 11251 11350 | 100 100 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 11809 12042 | 11562 11795 | 234 234 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12043 12134 | 11816 11907 | 92 92 | 98.91 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12135 12237 | 11948 12050 | 103 103 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12339 12426 | 12212 12299 | 88 88 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12427 12511 | 12320 12404 | 85 85 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12512 12629 | 12425 12542 | 118 118 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12633 12707 | 12586 12660 | 75 75 | 98.67 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12741 12820 | 12754 12833 | 80 80 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12821 12887 | 12854 12920 | 67 67 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 12888 13010 | 12941 13063 | 123 123 | 99.19 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 13046 13144 | 13139 13237 | 99 99 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 13145 13275 | 13258 13388 | 131 131 | 99.24 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 13307 13426 | 13460 13579 | 120 120 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 13427 13519 | 13600 13692 | 93 93 | 98.92 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 13613 13711 | 13914 14012 | 99 99 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14076 14150 | 14708 14782 | 75 75 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14151 14311 | 14823 14983 | 161 161 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14312 14385 | 15004 15077 | 74 74 | 98.65 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14386 14475 | 15118 15207 | 90 90 | 98.89 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14476 14549 | 15248 15321 | 74 74 | 98.65 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14584 14649 | 15396 15461 | 66 66 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14650 14746 | 15502 15598 | 97 97 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14747 14872 | 15619 15744 | 126 126 | 99.21 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14877 14974 | 15789 15886 | 98 98 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 14975 15040 | 15907 15972 | 66 66 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 15041 15228 | 15993 16180 | 188 188 | 99.47 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 15229 15333 | 16221 16325 | 105 105 | 99.05 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 15334 15442 | 16346 16454 | 109 109 | 99.08 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 15555 15629 | 16627 16701 | 75 75 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 15934 16017 | 17266 17349 | 84 84 | 97.62 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16149 16239 | 17561 17651 | 91 91 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16240 16323 | 17672 17755 | 84 84 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16324 16492 | 17776 17944 | 169 169 | 99.41 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16496 16598 | 18008 18110 | 103 103 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16602 16705 | 18154 18257 | 104 104 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16767 16832 | 18359 18424 | 66 66 | 98.48 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 16833 16916 | 18465 18548 | 84 84 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 17251 17325 | 19162 19236 | 75 75 | 98.67 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 17406 17494 | 19518 19606 | 89 89 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 17525 17603 | 19677 19755 | 79 79 | 98.73 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 17995 18129 | 20388 20522 | 135 135 | 99.26 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18109 18232 | 20640 20763 | 124 124 | 99.19 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18233 18365 | 20784 20916 | 133 133 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18366 18463 | 20937 21034 | 98 98 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18617 18710 | 21288 21381 | 94 94 | 98.94 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18785 18891 | 21536 21642 | 107 107 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 18892 18987 | 21683 21778 | 96 96 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 19115 19194 | 22046 22125 | 80 80 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 19195 19267 | 22146 22218 | 73 73 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 19268 19357 | 22239 22328 | 90 90 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 19358 19456 | 22349 22447 | 99 99 | 98.99 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 19787 19879 | 23071 23163 | 93 93 | 98.92 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20044 20146 | 23448 23550 | 103 103 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20279 20350 | 23823 23894 | 72 72 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20351 20415 | 23915 23979 | 65 65 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20473 20539 | 24077 24143 | 67 67 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20582 20714 | 24306 24438 | 133 133 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20731 20826 | 24515 24610 | 96 96 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 20971 21046 | 24855 24930 | 76 76 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21231 21300 | 25255 25324 | 70 70 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21301 21411 | 25345 25455 | 111 111 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21449 21532 | 25573 25656 | 84 84 | 98.81 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21636 21707 | 25900 25971 | 72 72 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21708 21829 | 25992 26113 | 122 122 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21830 21948 | 26134 26252 | 119 119 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 21986 22069 | 26330 26413 | 84 84 | 98.81 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22158 22265 | 26582 26689 | 108 108 | 99.07 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22266 22364 | 26730 26828 | 99 99 | 98.99 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22489 22563 | 27053 27127 | 75 75 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22564 22647 | 27148 27231 | 84 84 | 98.81 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22655 22760 | 27279 27384 | 106 106 | 99.06 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 22803 22914 | 27487 27598 | 112 112 | 99.11 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23015 23143 | 27819 27947 | 129 129 | 99.22 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23146 23263 | 27990 28107 | 118 118 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23323 23467 | 28207 28351 | 145 145 | 99.31 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23556 23626 | 28560 28630 | 71 71 | 98.59 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23795 23865 | 28939 29009 | 71 71 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 23895 23959 | 29079 29143 | 65 65 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 24005 24091 | 29229 29315 | 87 87 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 24344 24442 | 29828 29926 | 99 99 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 24443 24662 | 29947 30166 | 220 220 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 24729 24823 | 30293 30387 | 95 95 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 24949 25069 | 30593 30713 | 121 121 | 99.17 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 25070 25190 | 30754 30874 | 121 121 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 25383 25458 | 31167 31242 | 76 76 | 98.68 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 25459 25534 | 31303 31378 | 76 76 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 25561 25680 | 31445 31564 | 120 120 | 99.17 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 25826 26254 | 31810 32238 | 429 429 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 26255 26354 | 32259 32358 | 100 100 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 26355 26466 | 32379 32490 | 112 112 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 26517 26682 | 32601 32766 | 166 166 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 26683 26747 | 32787 32851 | 65 65 | 98.46 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 26872 26938 | 33096 33162 | 67 67 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 27032 27189 | 33336 33493 | 158 158 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 27229 27474 | 33573 33818 | 246 246 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 27539 27678 | 33983 34122 | 140 140 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 27756 27834 | 34321 34399 | 79 79 | 98.73 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 27871 27957 | 34496 34582 | 87 87 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 28064 28157 | 34789 34882 | 94 94 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 28158 28222 | 34903 34967 | 65 65 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 28634 28720 | 35845 35931 | 87 87 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 28721 28794 | 35952 36025 | 74 74 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 28923 29027 | 36234 36338 | 105 105 | 99.05 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29155 29224 | 36566 36635 | 70 70 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29331 29463 | 36842 36974 | 133 133 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29519 29621 | 37110 37212 | 103 103 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29655 29731 | 37286 37362 | 77 77 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29732 29990 | 37383 37641 | 259 259 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 29991 30065 | 37682 37756 | 75 75 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 30320 30392 | 38231 38303 | 73 73 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 30393 30475 | 38324 38406 | 83 83 | 98.8 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 30496 30564 | 38524 38592 | 69 69 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31007 31108 | 39392 39493 | 102 102 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31275 31339 | 39840 39904 | 65 65 | 98.46 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31437 31512 | 40102 40177 | 76 76 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31513 31632 | 40198 40317 | 120 120 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31671 31741 | 40396 40466 | 71 71 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31742 31859 | 40487 40604 | 118 118 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31925 31992 | 40730 40797 | 68 68 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 31993 32128 | 40818 40953 | 136 136 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32178 32296 | 41063 41181 | 119 119 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32412 32479 | 41437 41504 | 68 68 | 97.06 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32565 32678 | 41670 41783 | 114 114 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32679 32767 | 41804 41892 | 89 89 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32768 32859 | 41913 42004 | 92 92 | 98.91 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 32860 33047 | 42025 42212 | 188 188 | 99.47 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33074 33156 | 42299 42381 | 83 83 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33157 33240 | 42402 42485 | 84 84 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33302 33413 | 42607 42718 | 112 112 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33414 33484 | 42739 42809 | 71 71 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33485 33620 | 42830 42965 | 136 136 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33621 33697 | 42986 43062 | 77 77 | 98.7 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33741 33829 | 43166 43254 | 89 89 | 98.88 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33830 33910 | 43295 43375 | 81 81 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 33911 33981 | 43396 43466 | 71 71 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 34050 34117 | 43615 43682 | 68 68 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 34176 34353 | 43821 43998 | 178 178 | 99.44 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 34354 34493 | 44019 44158 | 140 140 | 99.29 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 34556 34656 | 44281 44381 | 101 101 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 34714 34821 | 44519 44626 | 108 108 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Alignment: 46580 46922 | 44889 45231 | 343 343 | 100.0 | gi_9626243_ref_NC_001416.1_ Contig_1
+		Unaligned bases: 24107
+
+CONTIG: Contig_2 (41bp)
+		This contig is unaligned. (41 bp)
+		Unaligned bases: 41 (number of Ns: 0)
+
+CONTIG: Contig_3 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_4 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_5 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_6 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_7 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_8 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_9 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_10 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_11 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_12 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_13 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_14 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_15 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_16 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_17 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_18 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_19 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_20 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_21 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_22 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_23 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_24 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_25 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_26 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_27 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_28 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_29 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_30 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_31 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_32 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_33 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_34 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_35 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_36 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_37 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_38 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_39 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_40 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_41 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_42 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_43 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_44 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_45 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_46 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_47 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_48 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_49 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_50 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_51 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_52 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_53 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_54 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_55 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_56 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_57 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_58 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_59 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_60 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_61 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_62 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_63 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_64 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_65 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_66 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_67 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_68 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_69 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_70 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_71 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_72 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_73 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_74 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_75 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_76 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_77 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_78 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_79 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_80 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_81 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_82 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_83 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_84 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_85 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_86 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_87 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_88 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_89 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_90 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_91 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_92 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_93 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_94 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_95 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_96 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_97 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_98 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_99 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_100 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_101 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_102 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_103 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_104 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_105 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_106 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_107 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_108 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_109 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_110 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_111 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_112 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_113 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_114 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_115 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_116 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_117 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_118 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_119 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_120 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_121 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_122 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_123 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_124 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_125 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_126 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_127 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_128 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_129 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_130 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_131 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_132 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_133 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_134 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_135 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_136 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_137 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_138 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_139 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_140 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_141 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_142 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_143 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_144 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_145 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_146 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_147 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_148 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_149 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_150 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_151 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_152 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_153 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_154 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_155 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_156 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_157 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_158 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_159 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_160 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_161 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_162 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_163 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_164 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_165 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_166 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_167 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_168 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_169 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_170 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_171 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_172 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_173 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_174 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_175 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_176 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_177 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_178 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_179 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_180 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_181 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_182 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_183 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_184 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_185 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_186 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_187 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_188 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_189 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_190 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_191 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_192 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_193 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_194 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_195 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_196 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_197 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_198 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_199 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_200 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_201 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_202 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_203 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_204 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_205 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_206 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_207 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_208 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_209 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_210 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_211 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_212 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_213 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_214 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_215 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_216 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_217 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_218 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_219 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_220 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_221 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_222 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_223 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_224 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_225 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_226 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_227 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_228 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_229 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_230 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_231 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_232 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_233 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_234 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_235 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_236 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_237 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_238 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_239 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_240 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_241 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_242 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_243 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_244 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_245 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_246 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_247 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_248 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_249 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_250 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_251 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_252 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_253 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_254 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_255 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_256 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_257 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_258 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_259 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_260 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_261 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_262 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_263 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_264 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_265 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_266 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_267 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_268 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_269 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_270 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_271 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_272 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_273 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_274 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_275 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_276 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_277 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_278 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_279 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_280 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_281 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_282 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_283 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_284 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_285 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_286 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_287 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_288 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_289 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_290 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_291 (41bp)
+		This contig is unaligned. (41 bp)
+		Unaligned bases: 41 (number of Ns: 0)
+
+CONTIG: Contig_292 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_293 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_294 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_295 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_296 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_297 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_298 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_299 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_300 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_301 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_302 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_303 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_304 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_305 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_306 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_307 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_308 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_309 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_310 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_311 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_312 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_313 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_314 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_315 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_316 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_317 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_318 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_319 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_320 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_321 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_322 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_323 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_324 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_325 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_326 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_327 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_328 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_329 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_330 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_331 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_332 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_333 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_334 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_335 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_336 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_337 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_338 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_339 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_340 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_341 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_342 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_343 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_344 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_345 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_346 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_347 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_348 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_349 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_350 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_351 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_352 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_353 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_354 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_355 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_356 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_357 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_358 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_359 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_360 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_361 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_362 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_363 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_364 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_365 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_366 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_367 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_368 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_369 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_370 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_371 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_372 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_373 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_374 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_375 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_376 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_377 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_378 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_379 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_380 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_381 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_382 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_383 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_384 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_385 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_386 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_387 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_388 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_389 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_390 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_391 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_392 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_393 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_394 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_395 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_396 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_397 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_398 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_399 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_400 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_401 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_402 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_403 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_404 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_405 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_406 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_407 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_408 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_409 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_410 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_411 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_412 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_413 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_414 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_415 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_416 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_417 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_418 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_419 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_420 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_421 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_422 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_423 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_424 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_425 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_426 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_427 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_428 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_429 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_430 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_431 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_432 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_433 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_434 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_435 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_436 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_437 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_438 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_439 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_440 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_441 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_442 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_443 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_444 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_445 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_446 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_447 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_448 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_449 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_450 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_451 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_452 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_453 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_454 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_455 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_456 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_457 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_458 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_459 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_460 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_461 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_462 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_463 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_464 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_465 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_466 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_467 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_468 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_469 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_470 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_471 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_472 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_473 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_474 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_475 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_476 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_477 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_478 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_479 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_480 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_481 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_482 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_483 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_484 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_485 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_486 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_487 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_488 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_489 (40bp)
+		This contig is unaligned. (40 bp)
+		Unaligned bases: 40 (number of Ns: 0)
+
+CONTIG: Contig_490 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_491 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_492 (38bp)
+		This contig is unaligned. (38 bp)
+		Unaligned bases: 38 (number of Ns: 0)
+
+CONTIG: Contig_493 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_494 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_495 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_496 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_497 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_498 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_499 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_500 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_501 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_502 (41bp)
+		This contig is unaligned. (41 bp)
+		Unaligned bases: 41 (number of Ns: 0)
+
+CONTIG: Contig_503 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_504 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_505 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_506 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_507 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_508 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_509 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_510 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_511 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_512 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_513 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_514 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_515 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_516 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_517 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_518 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_519 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_520 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_521 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_522 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_523 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_524 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_525 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_526 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_527 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_528 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_529 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_530 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_531 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_532 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_533 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_534 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_535 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_536 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_537 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_538 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_539 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_540 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_541 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_542 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_543 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_544 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_545 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_546 (28bp)
+		This contig is unaligned. (28 bp)
+		Unaligned bases: 28 (number of Ns: 0)
+
+CONTIG: Contig_547 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_548 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_549 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_550 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_551 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_552 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+CONTIG: Contig_553 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_554 (34bp)
+		This contig is unaligned. (34 bp)
+		Unaligned bases: 34 (number of Ns: 0)
+
+CONTIG: Contig_555 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_556 (29bp)
+		This contig is unaligned. (29 bp)
+		Unaligned bases: 29 (number of Ns: 0)
+
+CONTIG: Contig_557 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_558 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_559 (24bp)
+		This contig is unaligned. (24 bp)
+		Unaligned bases: 24 (number of Ns: 0)
+
+CONTIG: Contig_560 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_561 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_562 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_563 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_564 (23bp)
+		This contig is unaligned. (23 bp)
+		Unaligned bases: 23 (number of Ns: 0)
+
+CONTIG: Contig_565 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_566 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_567 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_568 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_569 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_570 (36bp)
+		This contig is unaligned. (36 bp)
+		Unaligned bases: 36 (number of Ns: 0)
+
+CONTIG: Contig_571 (32bp)
+		This contig is unaligned. (32 bp)
+		Unaligned bases: 32 (number of Ns: 0)
+
+CONTIG: Contig_572 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_573 (26bp)
+		This contig is unaligned. (26 bp)
+		Unaligned bases: 26 (number of Ns: 0)
+
+CONTIG: Contig_574 (22bp)
+		This contig is unaligned. (22 bp)
+		Unaligned bases: 22 (number of Ns: 0)
+
+CONTIG: Contig_575 (25bp)
+		This contig is unaligned. (25 bp)
+		Unaligned bases: 25 (number of Ns: 0)
+
+CONTIG: Contig_576 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_577 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_578 (33bp)
+		This contig is unaligned. (33 bp)
+		Unaligned bases: 33 (number of Ns: 0)
+
+CONTIG: Contig_579 (35bp)
+		This contig is unaligned. (35 bp)
+		Unaligned bases: 35 (number of Ns: 0)
+
+CONTIG: Contig_580 (31bp)
+		This contig is unaligned. (31 bp)
+		Unaligned bases: 31 (number of Ns: 0)
+
+CONTIG: Contig_581 (21bp)
+		This contig is unaligned. (21 bp)
+		Unaligned bases: 21 (number of Ns: 0)
+
+CONTIG: Contig_582 (30bp)
+		This contig is unaligned. (30 bp)
+		Unaligned bases: 30 (number of Ns: 0)
+
+CONTIG: Contig_583 (39bp)
+		This contig is unaligned. (39 bp)
+		Unaligned bases: 39 (number of Ns: 0)
+
+CONTIG: Contig_584 (37bp)
+		This contig is unaligned. (37 bp)
+		Unaligned bases: 37 (number of Ns: 0)
+
+CONTIG: Contig_585 (41bp)
+		This contig is unaligned. (41 bp)
+		Unaligned bases: 41 (number of Ns: 0)
+
+CONTIG: Contig_586 (27bp)
+		This contig is unaligned. (27 bp)
+		Unaligned bases: 27 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_alloutput/contigs_reports/minimap_output/sortie_sequencage1.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_alloutput/contigs_reports/minimap_output/sortie_sequencage1.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 585 + 1 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 41105
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 21133
+
+	SNPs: 70
+	Insertions: 0
+	Deletions: 0
+

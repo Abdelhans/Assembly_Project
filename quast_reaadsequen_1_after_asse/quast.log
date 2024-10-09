@@ -1,0 +1,115 @@
+/shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/quast.py --threads 32 --min-contig 1 -r Reference_1.fa -o quast_reaadsequen_1_after_asse assembly_read_sequence1.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.6.1.el7.x86_64-x86_64-with-centos-7.5.1804-Core (linux_64)
+  Python version: 3.6.12
+  CPUs number: 56
+
+Started: 2023-05-06 05:43:22
+
+Logging to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset
+Main parameters: 
+  MODE: default, threads: 32, minimum contig length: 1, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/Reference_1.fa ==> Reference_1
+
+Contigs:
+  Pre-processing...
+  assembly_read_sequence1.fasta ==> assembly_read_sequence1
+
+2023-05-06 05:43:27
+Running Basic statistics processor...
+  Reference genome:
+    Reference_1.fa, length = 48576, num fragments = 1, GC % = 49.87
+  Contig files: 
+    assembly_read_sequence1
+  Calculating N50 and L50...
+    assembly_read_sequence1, N50 = 299, L50 = 89, Total length = 106624, GC % = 50.33, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/basic_stats/GC_content_plot.pdf
+  Drawing assembly_read_sequence1 GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/basic_stats/assembly_read_sequence1_GC_content_plot.pdf
+Done.
+
+2023-05-06 05:43:28
+Running Contig analyzer...
+  assembly_read_sequence1
+  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/contigs_report_assembly_read_sequence1.stdout and contigs_report_assembly_read_sequence1.stderr...
+  Aligning contigs to the reference
+  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 -B5 \
+  -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g \
+  2500 --score-N 2 --cs -t 32 quast_reaadsequen_1_after_asse/quast_corrected_input/Reference_1.fa \
+  quast_reaadsequen_1_after_asse/quast_corrected_input/assembly_read_sequence1.fasta \
+  > quast_reaadsequen_1_after_asse/contigs_reports/minimap_output/assembly_read_sequence1.coords_tmp \
+  2>> quast_reaadsequen_1_after_asse/contigs_reports/contigs_report_assembly_read_sequence1.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2023-05-06 05:43:28
+Running NA-NGA calculation...
+  assembly_read_sequence1, Largest alignment = 1747, NA50 = 181, NGA50 = 300, LA50 = 172, LGA50 = 55
+  Drawing cumulative plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/aligned_stats/NGAx_plot.pdf
+Done.
+
+2023-05-06 05:43:29
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly_read_sequence1
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-06 05:43:29
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2023-05-06 05:43:32
+RESULTS:
+  Text versions of total report are saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/report.html
+  PDF version (tables and plots) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/report.pdf
+  Icarus (contig browser) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/icarus.html
+  Log is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/quast_reaadsequen_1_after_asse/quast.log
+
+Finished: 2023-05-06 05:43:32
+Elapsed time: 0:00:09.247046
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

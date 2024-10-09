@@ -1,0 +1,53 @@
+All statistics are based on contigs of size >= 1 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     sortie_medium  sortie_sequencage1  sortie_Hard  sortie_sequencagesserreur
+# contigs (>= 0 bp)          6              586                 2            1                        
+# contigs (>= 1000 bp)       2              1                   2            1                        
+# contigs (>= 5000 bp)       1              1                   1            1                        
+# contigs (>= 10000 bp)      0              1                   0            1                        
+# contigs (>= 25000 bp)      0              1                   0            1                        
+# contigs (>= 50000 bp)      0              0                   0            0                        
+Total length (>= 0 bp)       11310          62259               8034         45123                    
+Total length (>= 1000 bp)    11172          45261               8034         45123                    
+Total length (>= 5000 bp)    7416           45261               5307         45123                    
+Total length (>= 10000 bp)   0              45261               0            45123                    
+Total length (>= 25000 bp)   0              45261               0            45123                    
+Total length (>= 50000 bp)   0              0                   0            0                        
+# contigs                    6              586                 2            1                        
+Largest contig               7416           45261               5307         45123                    
+Total length                 11310          62259               8034         45123                    
+Reference length             48576          48576               48576        48576                    
+GC (%)                       38.01          50.53               39.38        49.54                    
+Reference GC (%)             49.87          49.87               49.87        49.87                    
+N50                          7416           45261               5307         45123                    
+NG50                         -              45261               -            45123                    
+N75                          3756           39                  2727         45123                    
+NG75                         -              45261               -            45123                    
+L50                          1              1                   1            1                        
+LG50                         -              1                   -            1                        
+L75                          2              38                  2            1                        
+LG75                         -              1                   -            1                        
+# misassemblies              -              0                   -            0                        
+# misassembled contigs       -              0                   -            0                        
+Misassembled contigs length  -              0                   -            0                        
+# local misassemblies        -              0                   -            0                        
+# scaffold gap ext. mis.     -              0                   -            0                        
+# scaffold gap loc. mis.     -              0                   -            0                        
+# unaligned mis. contigs     -              1                   -            0                        
+# unaligned contigs          6 + 0 part     585 + 1 part        2 + 0 part   0 + 0 part               
+Unaligned length             11310          41105               8034         0                        
+Genome fraction (%)          -              43.505              -            92.850                   
+Duplication ratio            -              1.001               -            1.000                    
+# N's per 100 kbp            0.00           0.00                0.00         0.00                     
+# mismatches per 100 kbp     -              331.24              -            0.00                     
+# indels per 100 kbp         -              0.00                -            2.22                     
+Largest alignment            -              429                 -            45123                    
+Total aligned length         -              21154               -            45123                    
+NA50                         -              -                   -            45123                    
+NGA50                        -              -                   -            45123                    
+NA75                         -              -                   -            45123                    
+NGA75                        -              -                   -            45123                    
+LA50                         -              -                   -            1                        
+LGA50                        -              -                   -            1                        
+LA75                         -              -                   -            1                        
+LGA75                        -              -                   -            1                        

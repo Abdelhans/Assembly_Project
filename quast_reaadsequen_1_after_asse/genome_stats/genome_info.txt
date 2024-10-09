@@ -1,0 +1,14 @@
+reference chromosomes:
+	gi_9626243_ref_NC_001416.1_ (total length: 48576 bp, total length without N's: 48576 bp, maximal covered length: 37196 bp)
+
+total genome size: 48576
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly_read_sequence1  | 76.573    | 2.634       | 46        | -         | -         | -         | -         |

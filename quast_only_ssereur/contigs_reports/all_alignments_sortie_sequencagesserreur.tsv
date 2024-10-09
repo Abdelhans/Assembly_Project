@@ -1,0 +1,3 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3451	48553	1	45123	gi_9626243_ref_NC_001416.1_	Contig_1	99.96		True
+CONTIG	Contig_1	45123	correct

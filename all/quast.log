@@ -1,0 +1,187 @@
+/shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/quast.py --threads 32 --min-contig 1 -r Reference_1.fa -o all sortie_medium.fasta sortie_sequencage1.fasta sortie_Hard.fasta sortie_sequencagesserreur.fasta reads_sequencage1_in.fa reads_contaminant_in.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.6.1.el7.x86_64-x86_64-with-centos-7.5.1804-Core (linux_64)
+  Python version: 3.6.12
+  CPUs number: 56
+
+Started: 2023-05-06 15:58:29
+
+Logging to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset
+Main parameters: 
+  MODE: default, threads: 32, minimum contig length: 1, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/Reference_1.fa ==> Reference_1
+
+Contigs:
+  Pre-processing...
+  1  sortie_medium.fasta ==> sortie_medium
+  2  sortie_sequencage1.fasta ==> sortie_sequencage1
+  3  sortie_Hard.fasta ==> sortie_Hard
+  4  sortie_sequencagesserreur.fasta ==> sortie_sequencagesserreur
+  5  reads_sequencage1_in.fa ==> reads_sequencage1_in
+  6  reads_contaminant_in.fa ==> reads_contaminant_in
+
+2023-05-06 15:58:31
+Running Basic statistics processor...
+  Reference genome:
+    Reference_1.fa, length = 48576, num fragments = 1, GC % = 49.87
+  Contig files: 
+    1  sortie_medium
+    2  sortie_sequencage1
+    3  sortie_Hard
+    4  sortie_sequencagesserreur
+    5  reads_sequencage1_in
+    6  reads_contaminant_in
+  Calculating N50 and L50...
+    1  sortie_medium, N50 = 7416, L50 = 1, Total length = 11310, GC % = 38.01, # N's per 100 kbp =  0.00
+    2  sortie_sequencage1, N50 = 45261, L50 = 1, Total length = 62259, GC % = 50.53, # N's per 100 kbp =  0.00
+    3  sortie_Hard, N50 = 5307, L50 = 1, Total length = 8034, GC % = 39.38, # N's per 100 kbp =  0.00
+    4  sortie_sequencagesserreur, N50 = 45123, L50 = 1, Total length = 45123, GC % = 49.54, # N's per 100 kbp =  0.00
+    5  reads_sequencage1_in, N50 = 300, L50 = 368, Total length = 220800, GC % = 51.22, # N's per 100 kbp =  0.00
+    6  reads_contaminant_in, N50 = 300, L50 = 3690, Total length = 2214000, GC % = 49.64, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/GC_content_plot.pdf
+  Drawing sortie_medium GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/sortie_medium_GC_content_plot.pdf
+  Drawing sortie_sequencage1 GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/sortie_sequencage1_GC_content_plot.pdf
+  Drawing sortie_Hard GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/sortie_Hard_GC_content_plot.pdf
+  Drawing sortie_sequencagesserreur GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/sortie_sequencagesserreur_GC_content_plot.pdf
+  Drawing reads_sequencage1_in GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/reads_sequencage1_in_GC_content_plot.pdf
+  Drawing reads_contaminant_in GC content plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/basic_stats/reads_contaminant_in_GC_content_plot.pdf
+Done.
+
+2023-05-06 15:58:34
+Running Contig analyzer...
+  1  sortie_medium
+  2  sortie_sequencage1
+  6  reads_contaminant_in
+  3  sortie_Hard
+  5  reads_sequencage1_in
+  4  sortie_sequencagesserreur
+  1  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_sortie_medium.stdout and contigs_report_sortie_medium.stderr...
+  5  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_reads_sequencage1_in.stdout and contigs_report_reads_sequencage1_in.stderr...
+  4  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_sortie_sequencagesserreur.stdout and contigs_report_sortie_sequencagesserreur.stderr...
+  2  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_sortie_sequencage1.stdout and contigs_report_sortie_sequencage1.stderr...
+  6  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_reads_contaminant_in.stdout and contigs_report_reads_contaminant_in.stderr...
+  3  Logging to files /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/contigs_report_sortie_Hard.stdout and contigs_report_sortie_Hard.stderr...
+  5  Aligning contigs to the reference
+  1  Aligning contigs to the reference
+  2  Aligning contigs to the reference
+  6  Aligning contigs to the reference
+  3  Aligning contigs to the reference
+  4  Using existing alignments... 
+  5  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 \
+     -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
+     200 -g 2500 --score-N 2 --cs -t 5 all/quast_corrected_input/Reference_1.fa all/quast_corrected_input/reads_sequencage1_in.fa \
+     > all/contigs_reports/minimap_output/reads_sequencage1_in.coords_tmp 2>> all/contigs_reports/contigs_report_reads_sequencage1_in.stderr
+  1  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 \
+     -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
+     200 -g 2500 --score-N 2 --cs -t 5 all/quast_corrected_input/Reference_1.fa all/quast_corrected_input/sortie_medium.fasta \
+     > all/contigs_reports/minimap_output/sortie_medium.coords_tmp 2>> all/contigs_reports/contigs_report_sortie_medium.stderr
+  3  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 \
+     -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
+     200 -g 2500 --score-N 2 --cs -t 5 all/quast_corrected_input/Reference_1.fa all/quast_corrected_input/sortie_Hard.fasta \
+     > all/contigs_reports/minimap_output/sortie_Hard.coords_tmp 2>> all/contigs_reports/contigs_report_sortie_Hard.stderr
+  2  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 \
+     -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
+     200 -g 2500 --score-N 2 --cs -t 5 all/quast_corrected_input/Reference_1.fa all/quast_corrected_input/sortie_sequencage1.fasta \
+     > all/contigs_reports/minimap_output/sortie_sequencage1.coords_tmp 2>> all/contigs_reports/contigs_report_sortie_sequencage1.stderr
+  6  /shared/ifbstor1/software/miniconda/envs/quast-5.0.2/bin/minimap2 -c -x asm5 \
+     -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ \
+     200 -g 2500 --score-N 2 --cs -t 5 all/quast_corrected_input/Reference_1.fa all/quast_corrected_input/reads_contaminant_in.fa \
+     > all/contigs_reports/minimap_output/reads_contaminant_in.coords_tmp 2>> all/contigs_reports/contigs_report_reads_contaminant_in.stderr
+  4  Analysis is finished.
+
+  3  Nothing aligned for 'sortie_Hard'.
+  1  Nothing aligned for 'sortie_medium'.
+  5  Analysis is finished.
+
+  6  Analysis is finished.
+
+  2  Analysis is finished.
+
+  Creating total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/contigs_reports/misassemblies_frcurve_plot.pdf
+Done for 4 out of 6. For the rest, only basic stats are going to be evaluated.
+
+2023-05-06 15:58:37
+Running NA-NGA calculation...
+  1  sortie_sequencage1, Largest alignment = 429, NA50 = None, LA50 = None
+  2  sortie_sequencagesserreur, Largest alignment = 45123, NA50 = 45123, NGA50 = 45123, LA50 = 1, LGA50 = 1
+  3  reads_sequencage1_in, Largest alignment = 300, NA50 = 300, NGA50 = 300, LA50 = 368, LGA50 = 81
+  4  reads_contaminant_in, Largest alignment = 300, NA50 = 300, NGA50 = 300, LA50 = 3690, LGA50 = 81
+  Drawing cumulative plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/aligned_stats/NGAx_plot.pdf
+Done.
+
+2023-05-06 15:58:38
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  sortie_sequencage1
+  3  reads_sequencage1_in
+  2  sortie_sequencagesserreur
+  4  reads_contaminant_in
+  2  Analysis is finished.
+  1  Analysis is finished.
+  3  Analysis is finished.
+  4  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-06 15:58:38
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2023-05-06 15:58:51
+RESULTS:
+  Text versions of total report are saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/report.html
+  PDF version (tables and plots) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/report.pdf
+  Icarus (contig browser) is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/icarus.html
+  Log is saved to /shared/ifbstor1/projects/tetraselmis_assembly/python/TP_MASB_Limasset/all/quast.log
+
+Finished: 2023-05-06 15:58:51
+Elapsed time: 0:00:21.838634
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
